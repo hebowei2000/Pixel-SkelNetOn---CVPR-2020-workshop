@@ -89,7 +89,7 @@ def test(model, epoch, args):
         test_loader = SKDataset(image_root, gt_root, args.train_size)
         for i in range(test_loader.size):
             image, name = test_loader.load_data()
-           # image = image.cuda()
+            image = image.cuda()
             attention = model(image)
             attention = F.upsample(attention, size=(256, 256), mode='bilinear', align_corners=True)
             res = attention.sigmoid().data.cpu().numpy().squeeze()
