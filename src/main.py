@@ -37,8 +37,8 @@ def train(train_loader, model, optimizer, args):
                 optimizer.zero_grad()
                 ims, gts, names = data
                 # Load data
-                ims = ims.cuda()
-                gts = gts.cuda()
+               # ims = ims.cuda()
+               # gts = gts.cuda()
                 # Forward
                 trainsize = int(round(args.train_size * rate / 32) * 32)
                 if rate != 1:
@@ -89,7 +89,7 @@ def test(model, epoch, args):
         test_loader = SKDataset(image_root, gt_root, args.train_size)
         for i in range(test_loader.size):
             image, name = test_loader.load_data()
-            image = image.cuda()
+           # image = image.cuda()
             attention = model(image)
             attention = F.upsample(attention, size=(256, 256), mode='bilinear', align_corners=True)
             res = attention.sigmoid().data.cpu().numpy().squeeze()
@@ -112,13 +112,13 @@ def main():
 
     np.random.seed(2020)
     torch.manual_seed(2020)
-    torch.cuda.manual_seed(2020)
+   # torch.cuda.manual_seed(2020)
 
     print('Learning Rate: {} ResNet: {} Trainset: {}'.format(args.lr, args.is_resnet, args.trainset))
 
     # build model
     model = globals()[args.model]()
-    model.cuda()
+   # model.cuda()
 
     params = model.parameters()
     optimizer = torch.optim.SGD(params, args.lr, momentum=0.9, weight_decay=5e-4)
