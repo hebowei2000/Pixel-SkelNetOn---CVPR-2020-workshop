@@ -16188,3 +16188,1469 @@ Iteration: 666 SalLoss: 0.0185
 Iteration: 1 SalLoss: 0.6203
 31
 Iteration: 667 SalLoss: 0.0162
+Iteration: 313 SalLoss: 0.0190
+
+Iteration: 667 SalLoss: 0.0143
+Iteration: 2 SalLoss: 0.5926
+0
+Iteration: 667 SalLoss: 0.0145
+Iteration: 2 SalLoss: 0.5607
+7
+Iteration: 1989 SalLoss: 0.0265
+Iteration: 2 SalLoss: 0.5334
+35
+Iteration: 313 SalLoss: 0.0190
+Iteration: 668 SalLoss: 0.0204
+Iteration: 2 SalLoss: 0.5144
+0
+
+Iteration: 668 SalLoss: 0.0196
+
+Iteration: 3 SalLoss: 0.4974
+Iteration: 668 SalLoss: 0.0196
+
+Iteration: 3 SalLoss: 0.4552
+82
+Iteration: 1990 SalLoss: 0.0169
+Iteration: 3 SalLoss: 0.4373
+1
+Iteration: 1990 SalLoss: 0.0158
+Iteration: 669 SalLoss: 0.0162
+Iteration: 3 SalLoss: 0.4164
+8
+Iteration: 4 SalLoss: 0.4077
+5
+Iteration: 1990 SalLoss: 0.0156
+Iteration: 4 SalLoss: 0.3903
+Iteration: 669 SalLoss: 0.0155
+Iteration: 1990 SalLoss: 0.0155
+Iteration: 4 SalLoss: 0.3721
+Iteration: 669 SalLoss: 0.0154
+
+Iteration: 315 SalLoss: 0.0232
+Iteration: 4 SalLoss: 0.3553
+42
+Iteration: 670 SalLoss: 0.0261
+Iteration: 315 SalLoss: 0.0235
+
+Iteration: 4 SalLoss: 0.3421
+Iteration: 670 SalLoss: 0.0247
+Iteration: 1991 SalLoss: 0.0220
+Iteration: 5 SalLoss: 0.3292
+6
+Iteration: 1991 SalLoss: 0.0216
+Iteration: 5 SalLoss: 0.3137
+6
+Iteration: 1992 SalLoss: 0.0227
+Iteration: 670 SalLoss: 0.0235
+Iteration: 1992 SalLoss: 0.0209
+Iteration: 5 SalLoss: 0.2895
+Iteration: 671 SalLoss: 0.0184
+Iteration: 1992 SalLoss: 0.0204
+Iteration: 5 SalLoss: 0.2793
+Iteration: 671 SalLoss: 0.0181
+Iteration: 317 SalLoss: 0.0219
+Iteration: 1992 SalLoss: 0.0202
+Iteration: 6 SalLoss: 0.2747
+0
+Iteration: 317 SalLoss: 0.0215
+Iteration: 6 SalLoss: 0.2635
+Iteration: 1992 SalLoss: 0.0202
+Iteration: 6 SalLoss: 0.2535
+3
+Iteration: 1993 SalLoss: 0.0209
+Iteration: 6 SalLoss: 0.2442
+3
+Iteration: 672 SalLoss: 0.0196
+Iteration: 1993 SalLoss: 0.0190
+Iteration: 318 SalLoss: 0.0218
+Iteration: 6 SalLoss: 0.2371
+3
+Iteration: 1993 SalLoss: 0.0181
+Iteration: 318 SalLoss: 0.0203
+Iteration: 7 SalLoss: 0.2253
+1
+Iteration: 672 SalLoss: 0.0192
+Iteration: 1993 SalLoss: 0.0179
+Iteration: 673 SalLoss: 0.0206
+Iteration: 7 SalLoss: 0.2175
+Iteration: 1993 SalLoss: 0.0178
+Iteration: 673 SalLoss: 0.0194
+Iteration: 7 SalLoss: 0.2099
+Iteration: 1994 SalLoss: 0.0238
+Iteration: 318 SalLoss: 0.0194
+Iteration: 7 SalLoss: 0.2030
+Iteration: 1994 SalLoss: 0.0213IIteration: 1994 SalLoss: 0.0200
+Iteration: 7 SalLoss: 0.1971
+6
+Iteration: 1994 SalLoss: 0.0197
+Iteration: 8 SalLoss: 0.1945
+8
+Iteration: 1994 SalLoss: 0.0196
+Iteration: 8 SalLoss: 0.1870
+5
+Iteration: 1995 SalLoss: 0.0205
+Iteration: 1995 SalLoss: 0.0186
+teration: 8 SalLoss: 0.1811
+1
+Iteration: 1995 SalLoss: 0.0176
+Iteration: 320 SalLoss: 0.0249
+Iteration: 8 SalLoss: 0.1755
+4
+Iteration: 1995 SalLoss: 0.0172
+Iteration: 320 SalLoss: 0.0244
+Iteration: 8 SalLoss: 0.1707
+5
+Iteration: 320 SalLoss: 0.0241
+Iteration: 320 SalLoss: 0.0240
+
+teration: 9 SalLoss: 0.1645
+4
+Iteration: 4 SalLoss: 0.4090
+Iteration: 675 SalLoss: 0.0228
+Iteration: 9 SalLoss: 0.1579
+Iteration: 675 SalLoss: 0.0226
+Iteration: 1996 SalLoss: 0.0212
+Iteration: 9 SalLoss: 0.1543
+3
+Iteration: 675 SalLoss: 0.0226
+Iteration: 1996 SalLoss: 0.0196
+Iteration: 9 SalLoss: 0.1497
+5
+Iteration: 1996 SalLoss: 0.0181
+Iteration: 676 SalLoss: 0.0195
+Iteration: 1996 SalLoss: 0.0179
+Iteration: 9 SalLoss: 0.1452
+Iteration: 676 SalLoss: 0.0191
+Iteration: 322 SalLoss: 0.0245
+Iteration: 10 SalLoss: 0.1471
+Iteration: 676 SalLoss: 0.0196
+
+Iteration: 322 SalLoss: 0.0241
+Iteration: 10 SalLoss: 0.1429
+6
+Iteration: 677 SalLoss: 0.0261
+Iteration: 1997 SalLoss: 0.0164
+Iteration: 10 SalLoss: 0.1394
+Iteration: 677 SalLoss: 0.0251
+Iteration: 1997 SalLoss: 0.0156
+Iteration: 677 SalLoss: 0.0246
+Iteration: 1997 SalLoss: 0.0152
+Iteration: 10 SalLoss: 0.1327
+
+Iteration: 677 SalLoss: 0.0248
+Iteration: 1997 SalLoss: 0.0153
+Iteration: 11 SalLoss: 0.1288
+
+Iteration: 1998 SalLoss: 0.0244
+Iteration: 678 SalLoss: 0.0234
+Iteration: 11 SalLoss: 0.1259
+Iteration: 678 SalLoss: 0.0218
+
+Iteration: 11 SalLoss: 0.1224
+Iteration: 4 SalLoss: 0.3898
+6
+
+Iteration: 1998 SalLoss: 0.0202
+Iteration: 11 SalLoss: 0.1202
+
+Iteration: 11 SalLoss: 0.1176
+1
+Iteration: 678 SalLoss: 0.0220
+Iteration: 1999 SalLoss: 0.0254
+Iteration: 12 SalLoss: 0.1215
+0
+Iteration: 324 SalLoss: 0.0183
+Iteration: 679 SalLoss: 0.0283
+Iteration: 1999 SalLoss: 0.0215
+Iteration: 679 SalLoss: 0.0275
+Iteration: 12 SalLoss: 0.1157
+Iteration: 1999 SalLoss: 0.0213
+Iteration: 324 SalLoss: 0.0188
+Iteration: 12 SalLoss: 0.1139
+0
+Iteration: 325 SalLoss: 0.0255
+Iteration: 2000 SalLoss: 0.0200
+Iteration: 680 SalLoss: 0.0330
+
+Iteration: 13 SalLoss: 0.1037
+0
+Iteration: 2000 SalLoss: 0.0170
+Iteration: 13 SalLoss: 0.1011
+
+Iteration: 13 SalLoss: 0.0996
+8
+Iteration: 13 SalLoss: 0.0979
+9
+Iteration: 13 SalLoss: 0.0963
+
+Iteration: 326 SalLoss: 0.0332
+
+Iteration: 681 SalLoss: 0.0289
+Iteration: 14 SalLoss: 0.0951
+
+
+Iteration: 14 SalLoss: 0.0932
+
+Iteration: 2001 SalLoss: 0.0182
+Iteration: 14 SalLoss: 0.0916
+
+Iteration: 681 SalLoss: 0.0248
+
+Iteration: 326 SalLoss: 0.0302
+Iteration: 14 SalLoss: 0.0899
+9
+Iteration: 4 SalLoss: 0.3731
+6
+Iteration: 2002 SalLoss: 0.0249
+Iteration: 327 SalLoss: 0.0227
+Iteration: 327 SalLoss: 0.0231
+
+Iteration: 327 SalLoss: 0.0232
+
+Iteration: 15 SalLoss: 0.0901
+Iteration: 327 SalLoss: 0.0236
+
+Iteration: 15 SalLoss: 0.0879
+Iteration: 2003 SalLoss: 0.0236
+teration: 15 SalLoss: 0.0865
+Iteration: 2003 SalLoss: 0.0209
+Iteration: 328 SalLoss: 0.0180
+Iteration: 15 SalLoss: 0.0854
+6
+Iteration: 328 SalLoss: 0.0181
+Iteration: 15 SalLoss: 0.0844
+5
+Iteration: 16 SalLoss: 0.0798
+0
+Iteration: 2004 SalLoss: 0.0220
+Iteration: 683 SalLoss: 0.0237
+Iteration: 2004 SalLoss: 0.0202
+Iteration: 16 SalLoss: 0.0768
+Iteration: 2004 SalLoss: 0.0185
+Iteration: 16 SalLoss: 0.0756
+Iteration: 2004 SalLoss: 0.0180
+Iteration: 16 SalLoss: 0.0748
+Iteration: 684 SalLoss: 0.0248
+Iteration: 329 SalLoss: 0.0193
+Iteration: 17 SalLoss: 0.0834
+7
+Iteration: 684 SalLoss: 0.0244
+Iteration: 2005 SalLoss: 0.0297
+Iteration: 17 SalLoss: 0.0820
+Iteration: 684 SalLoss: 0.0243
+Iteration: 17 SalLoss: 0.0812
+3
+Iteration: 2005 SalLoss: 0.0245
+Iteration: 17 SalLoss: 0.0802
+
+Iteration: 17 SalLoss: 0.0793
+
+Iteration: 2005 SalLoss: 0.0242
+Iteration: 18 SalLoss: 0.0695
+Iteration: 685 SalLoss: 0.0247
+Iteration: 18 SalLoss: 0.0674
+7
+Iteration: 2006 SalLoss: 0.0243
+Iteration: 18 SalLoss: 0.0669
+
+Iteration: 2006 SalLoss: 0.0221
+Iteration: 685 SalLoss: 0.0220
+Iteration: 18 SalLoss: 0.0663
+
+
+Iteration: 331 SalLoss: 0.0229
+
+Iteration: 685 SalLoss: 0.0219
+Iteration: 331 SalLoss: 0.0219
+Iteration: 18 SalLoss: 0.0658
+8
+Iteration: 685 SalLoss: 0.0218
+Iteration: 19 SalLoss: 0.0685
+0
+Iteration: 686 SalLoss: 0.0157
+Iteration: 19 SalLoss: 0.0663
+6
+Iteration: 686 SalLoss: 0.0150
+Iteration: 19 SalLoss: 0.0654
+4
+Iteration: 4 SalLoss: 0.3554
+6
+
+Iteration: 19 SalLoss: 0.0644
+2
+Iteration: 2008 SalLoss: 0.0233
+Iteration: 20 SalLoss: 0.0653
+
+Iteration: 687 SalLoss: 0.0251
+
+Iteration: 332 SalLoss: 0.0260
+Iteration: 2008 SalLoss: 0.0199
+Iteration: 20 SalLoss: 0.0634
+
+Iteration: 2008 SalLoss: 0.0195
+Iteration: 333 SalLoss: 0.0319
+Iteration: 20 SalLoss: 0.0624
+
+Iteration: 333 SalLoss: 0.0309
+
+Iteration: 688 SalLoss: 0.0255
+Iteration: 20 SalLoss: 0.0619
+8
+Iteration: 688 SalLoss: 0.0241
+Iteration: 2009 SalLoss: 0.0161
+Iteration: 21 SalLoss: 0.0676
+
+Iteration: 2009 SalLoss: 0.0156
+Iteration: 21 SalLoss: 0.0666
+4
+Iteration: 21 SalLoss: 0.0657
+
+Iteration: 688 SalLoss: 0.0229
+Iteration: 21 SalLoss: 0.0655
+3
+Iteration: 689 SalLoss: 0.0207
+Iteration: 2010 SalLoss: 0.0282
+Iteration: 689 SalLoss: 0.0189
+Iteration: 21 SalLoss: 0.0650
+
+Iteration: 2010 SalLoss: 0.0253
+Iteration: 334 SalLoss: 0.0201
+Iteration: 689 SalLoss: 0.0179
+Iteration: 22 SalLoss: 0.0624
+0
+Iteration: 335 SalLoss: 0.0294
+Iteration: 22 SalLoss: 0.0621
+1
+Iteration: 335 SalLoss: 0.0278
+Iteration: 22 SalLoss: 0.0616
+8
+Iteration: 2011 SalLoss: 0.0243
+Iteration: 23 SalLoss: 0.0672
+1
+Iteration: 690 SalLoss: 0.0301
+Iteration: 23 SalLoss: 0.0660
+8
+Iteration: 335 SalLoss: 0.0276
+Iteration: 23 SalLoss: 0.0655
+0
+Iteration: 336 SalLoss: 0.0230
+Iteration: 691 SalLoss: 0.0243
+Iteration: 2011 SalLoss: 0.0182
+Iteration: 23 SalLoss: 0.0648
+Iteration: 2012 SalLoss: 0.0210
+Iteration: 336 SalLoss: 0.0204
+Iteration: 2012 SalLoss: 0.0194
+Iteration: 2012 SalLoss: 0.0188
+Iteration: 336 SalLoss: 0.0203
+Iteration: 24 SalLoss: 0.0536
+7
+Iteration: 336 SalLoss: 0.0205
+Iteration: 2012 SalLoss: 0.0184
+Iteration: 24 SalLoss: 0.0528
+Iteration: 337 SalLoss: 0.0289
+Iteration: 24 SalLoss: 0.0525
+2
+Iteration: 692 SalLoss: 0.0254
+Iteration: 692 SalLoss: 0.0258
+
+Iteration: 2013 SalLoss: 0.0191
+Iteration: 25 SalLoss: 0.0519
+
+Iteration: 692 SalLoss: 0.0261
+Iteration: 25 SalLoss: 0.0509
+
+
+Iteration: 25 SalLoss: 0.0501
+
+Iteration: 693 SalLoss: 0.0223
+Iteration: 2013 SalLoss: 0.0188
+Iteration: 25 SalLoss: 0.0499
+
+Iteration: 338 SalLoss: 0.0169
+
+Iteration: 25 SalLoss: 0.0500
+8
+Iteration: 338 SalLoss: 0.0170
+Iteration: 26 SalLoss: 0.0579
+Iteration: 2014 SalLoss: 0.0198
+Iteration: 26 SalLoss: 0.0571
+
+Iteration: 339 SalLoss: 0.0261
+
+Iteration: 694 SalLoss: 0.0187
+
+Iteration: 26 SalLoss: 0.0566
+6
+Iteration: 27 SalLoss: 0.0547
+Iteration: 694 SalLoss: 0.0191
+
+Iteration: 27 SalLoss: 0.0547
+
+Iteration: 2015 SalLoss: 0.0224
+Iteration: 27 SalLoss: 0.0541
+
+Iteration: 27 SalLoss: 0.0540
+3
+Iteration: 340 SalLoss: 0.0302
+Iteration: 695 SalLoss: 0.0231
+Iteration: 2015 SalLoss: 0.0221
+Iteration: 695 SalLoss: 0.0233
+
+Iteration: 28 SalLoss: 0.0499
+Iteration: 2016 SalLoss: 0.0181
+Iteration: 28 SalLoss: 0.0489
+Iteration: 696 SalLoss: 0.0248
+
+Iteration: 28 SalLoss: 0.0483
+Iteration: 696 SalLoss: 0.0236
+Iteration: 341 SalLoss: 0.0235
+Iteration: 2016 SalLoss: 0.0174
+Iteration: 28 SalLoss: 0.0482
+
+Iteration: 2016 SalLoss: 0.0175
+Iteration: 2017 SalLoss: 0.0257
+Iteration: 28 SalLoss: 0.0479
+
+Iteration: 697 SalLoss: 0.0230
+
+Iteration: 29 SalLoss: 0.0456
+Iteration: 341 SalLoss: 0.0226
+Iteration: 2017 SalLoss: 0.0232
+Iteration: 29 SalLoss: 0.0444
+
+Iteration: 2017 SalLoss: 0.0226
+Iteration: 29 SalLoss: 0.0441
+
+Iteration: 2017 SalLoss: 0.0226
+Iteration: 29 SalLoss: 0.0439
+7
+Iteration: 698 SalLoss: 0.0183
+Iteration: 2018 SalLoss: 0.0285
+Iteration: 342 SalLoss: 0.0202
+Iteration: 30 SalLoss: 0.0511
+7
+Iteration: 30 SalLoss: 0.0498
+
+Iteration: 2018 SalLoss: 0.0272
+Iteration: 30 SalLoss: 0.0495
+Iteration: 343 SalLoss: 0.0235
+Iteration: 2018 SalLoss: 0.0270
+Iteration: 30 SalLoss: 0.0490
+Iteration: 343 SalLoss: 0.0232
+Iteration: 2019 SalLoss: 0.0267
+Iteration: 30 SalLoss: 0.0491
+2
+Iteration: 31 SalLoss: 0.0511
+1
+Iteration: 31 SalLoss: 0.0497
+1
+Iteration: 2019 SalLoss: 0.0227
+Iteration: 700 SalLoss: 0.0196
+Iteration: 31 SalLoss: 0.0488
+6
+Iteration: 5 SalLoss: 0.3148
+02
+Iteration: 700 SalLoss: 0.0189
+Iteration: 31 SalLoss: 0.0488
+5
+Iteration: 345 SalLoss: 0.0247
+Iteration: 700 SalLoss: 0.0185
+
+Iteration: 700 SalLoss: 0.0185
+Iteration: 32 SalLoss: 0.0417
+4
+Iteration: 32 SalLoss: 0.0413
+0
+Iteration: 701 SalLoss: 0.0244
+Iteration: 345 SalLoss: 0.0225
+
+Iteration: 701 SalLoss: 0.0234
+Iteration: 32 SalLoss: 0.0411
+5
+Iteration: 345 SalLoss: 0.0227
+Iteration: 32 SalLoss: 0.0411
+
+Iteration: 2021 SalLoss: 0.0162
+Iteration: 346 SalLoss: 0.0234
+Iteration: 33 SalLoss: 0.0501
+
+
+Iteration: 346 SalLoss: 0.0226
+Iteration: 702 SalLoss: 0.0243
+
+Iteration: 346 SalLoss: 0.0224
+Iteration: 2022 SalLoss: 0.0216
+Iteration: 702 SalLoss: 0.0244
+Iteration: 33 SalLoss: 0.0489
+
+Iteration: 2022 SalLoss: 0.0202
+Iteration: 703 SalLoss: 0.0215
+Iteration: 33 SalLoss: 0.0489
+
+Iteration: 2022 SalLoss: 0.0195
+Iteration: 33 SalLoss: 0.0487
+
+Iteration: 703 SalLoss: 0.0186
+Iteration: 34 SalLoss: 0.0459
+
+
+Iteration: 703 SalLoss: 0.0184
+Iteration: 34 SalLoss: 0.0455
+Iteration: 2023 SalLoss: 0.0226
+Iteration: 703 SalLoss: 0.0178
+Iteration: 34 SalLoss: 0.0450
+Iteration: 347 SalLoss: 0.0242
+
+Iteration: 704 SalLoss: 0.0356
+Iteration: 34 SalLoss: 0.0445
+5
+Iteration: 704 SalLoss: 0.0332
+Iteration: 2023 SalLoss: 0.0183
+Iteration: 34 SalLoss: 0.0444
+
+Iteration: 704 SalLoss: 0.0320
+Iteration: 348 SalLoss: 0.0218
+Iteration: 35 SalLoss: 0.0476
+3
+Iteration: 348 SalLoss: 0.0213
+Iteration: 2024 SalLoss: 0.0219
+Iteration: 35 SalLoss: 0.0467
+Iteration: 2024 SalLoss: 0.0199
+Iteration: 705 SalLoss: 0.0247
+Iteration: 35 SalLoss: 0.0461
+Iteration: 2024 SalLoss: 0.0186
+Iteration: 348 SalLoss: 0.0212
+Iteration: 705 SalLoss: 0.0219
+Iteration: 35 SalLoss: 0.0459
+Iteration: 2024 SalLoss: 0.0183
+Iteration: 349 SalLoss: 0.0307
+Iteration: 35 SalLoss: 0.0458
+Iteration: 2024 SalLoss: 0.0181
+Iteration: 349 SalLoss: 0.0290
+Iteration: 36 SalLoss: 0.0470
+1
+Iteration: 705 SalLoss: 0.0201
+Iteration: 349 SalLoss: 0.0280
+Iteration: 36 SalLoss: 0.0450
+9
+Iteration: 5 SalLoss: 0.3023
+2
+Iteration: 2025 SalLoss: 0.0241
+Iteration: 36 SalLoss: 0.0445
+Iteration: 706 SalLoss: 0.0229
+Iteration: 2025 SalLoss: 0.0237
+Iteration: 36 SalLoss: 0.0446
+
+Iteration: 2025 SalLoss: 0.0233
+Iteration: 706 SalLoss: 0.0220
+Iteration: 36 SalLoss: 0.0445
+
+Iteration: 2026 SalLoss: 0.0179
+Iteration: 350 SalLoss: 0.0236
+Iteration: 37 SalLoss: 0.0419
+
+Iteration: 2026 SalLoss: 0.0167
+Iteration: 350 SalLoss: 0.0239
+Iteration: 37 SalLoss: 0.0407
+Iteration: 2026 SalLoss: 0.0160
+Iteration: 350 SalLoss: 0.0243
+Iteration: 37 SalLoss: 0.0403
+Iteration: 707 SalLoss: 0.0180
+Iteration: 351 SalLoss: 0.0207
+Iteration: 2026 SalLoss: 0.0156
+Iteration: 37 SalLoss: 0.0399
+
+Iteration: 351 SalLoss: 0.0192
+Iteration: 37 SalLoss: 0.0398
+6
+Iteration: 38 SalLoss: 0.0428
+
+Iteration: 2027 SalLoss: 0.0213
+Iteration: 351 SalLoss: 0.0186
+Iteration: 38 SalLoss: 0.0415
+Iteration: 2027 SalLoss: 0.0193
+Iteration: 708 SalLoss: 0.0195
+Iteration: 38 SalLoss: 0.0412
+9
+Iteration: 351 SalLoss: 0.0187
+Iteration: 708 SalLoss: 0.0197
+Iteration: 38 SalLoss: 0.0412
+6
+Iteration: 352 SalLoss: 0.0243
+Iteration: 2027 SalLoss: 0.0173
+Iteration: 38 SalLoss: 0.0414
+
+Iteration: 352 SalLoss: 0.0234
+Iteration: 2028 SalLoss: 0.0272
+Iteration: 39 SalLoss: 0.0430
+Iteration: 709 SalLoss: 0.0276
+
+Iteration: 2028 SalLoss: 0.0229
+Iteration: 39 SalLoss: 0.0423
+Iteration: 352 SalLoss: 0.0230
+Iteration: 2028 SalLoss: 0.0220
+Iteration: 39 SalLoss: 0.0423
+
+Iteration: 710 SalLoss: 0.0203
+Iteration: 352 SalLoss: 0.0234
+
+Iteration: 39 SalLoss: 0.0421
+Iteration: 710 SalLoss: 0.0201
+Iteration: 2029 SalLoss: 0.0202
+Iteration: 353 SalLoss: 0.0191
+Iteration: 39 SalLoss: 0.0423
+
+Iteration: 2029 SalLoss: 0.0178
+Iteration: 40 SalLoss: 0.0444
+
+Iteration: 710 SalLoss: 0.0203
+Iteration: 40 SalLoss: 0.0441
+6
+Iteration: 711 SalLoss: 0.0279
+Iteration: 2029 SalLoss: 0.0164
+Iteration: 40 SalLoss: 0.0437
+
+Iteration: 711 SalLoss: 0.0261
+Iteration: 2029 SalLoss: 0.0160
+Iteration: 40 SalLoss: 0.0436
+
+Iteration: 354 SalLoss: 0.0231
+Iteration: 2030 SalLoss: 0.0253
+Iteration: 40 SalLoss: 0.0435
+Iteration: 354 SalLoss: 0.0220
+Iteration: 2030 SalLoss: 0.0231
+Iteration: 41 SalLoss: 0.0362
+
+Iteration: 354 SalLoss: 0.0215
+Iteration: 2030 SalLoss: 0.0218
+Iteration: 41 SalLoss: 0.0359
+
+Iteration: 354 SalLoss: 0.0215
+
+Iteration: 41 SalLoss: 0.0356
+Iteration: 2030 SalLoss: 0.0213
+Iteration: 354 SalLoss: 0.0214
+Iteration: 712 SalLoss: 0.0199
+Iteration: 2031 SalLoss: 0.0180
+Iteration: 355 SalLoss: 0.0347
+Iteration: 713 SalLoss: 0.0278
+Iteration: 41 SalLoss: 0.0357
+6
+Iteration: 355 SalLoss: 0.0325
+Iteration: 713 SalLoss: 0.0254
+Iteration: 42 SalLoss: 0.0401
+0
+Iteration: 713 SalLoss: 0.0247
+Iteration: 355 SalLoss: 0.0319
+Iteration: 42 SalLoss: 0.0399
+Iteration: 2031 SalLoss: 0.0161
+Iteration: 42 SalLoss: 0.0394
+Iteration: 713 SalLoss: 0.0248
+Iteration: 2031 SalLoss: 0.0165
+Iteration: 42 SalLoss: 0.0394
+
+Iteration: 2032 SalLoss: 0.0202
+Iteration: 714 SalLoss: 0.0258
+Iteration: 42 SalLoss: 0.0395
+
+Iteration: 2032 SalLoss: 0.0191
+Iteration: 356 SalLoss: 0.0284
+Iteration: 43 SalLoss: 0.0393
+
+Iteration: 2032 SalLoss: 0.0183
+Iteration: 5 SalLoss: 0.2894
+0
+Iteration: 43 SalLoss: 0.0390
+Iteration: 2032 SalLoss: 0.0182
+Iteration: 356 SalLoss: 0.0282
+Iteration: 715 SalLoss: 0.0154
+Iteration: 43 SalLoss: 0.0388
+1
+Iteration: 715 SalLoss: 0.0149
+Iteration: 2033 SalLoss: 0.0220
+Iteration: 43 SalLoss: 0.0389
+
+Iteration: 2033 SalLoss: 0.0203
+Iteration: 44 SalLoss: 0.0395
+
+Iteration: 2033 SalLoss: 0.0193
+Iteration: 44 SalLoss: 0.0387
+
+Iteration: 2033 SalLoss: 0.0193
+Iteration: 358 SalLoss: 0.0298
+Iteration: 44 SalLoss: 0.0385
+0
+Iteration: 358 SalLoss: 0.0277
+Iteration: 44 SalLoss: 0.0382
+0
+Iteration: 358 SalLoss: 0.0264
+Iteration: 2034 SalLoss: 0.0154
+Iteration: 44 SalLoss: 0.0383
+
+Iteration: 717 SalLoss: 0.0296
+Iteration: 2034 SalLoss: 0.0148
+Iteration: 45 SalLoss: 0.0415
+
+Iteration: 2034 SalLoss: 0.0146
+Iteration: 45 SalLoss: 0.0410
+
+Iteration: 359 SalLoss: 0.0268
+
+Iteration: 717 SalLoss: 0.0269
+Iteration: 2035 SalLoss: 0.0241
+Iteration: 45 SalLoss: 0.0407
+
+Iteration: 717 SalLoss: 0.0266
+Iteration: 2035 SalLoss: 0.0217
+Iteration: 718 SalLoss: 0.0220
+Iteration: 45 SalLoss: 0.0409
+4
+Iteration: 359 SalLoss: 0.0255
+Iteration: 46 SalLoss: 0.0402
+1
+Iteration: 360 SalLoss: 0.0214
+Iteration: 46 SalLoss: 0.0398
+Iteration: 718 SalLoss: 0.0207
+Iteration: 46 SalLoss: 0.0396
+5
+Iteration: 2036 SalLoss: 0.0235
+Iteration: 360 SalLoss: 0.0196
+Iteration: 46 SalLoss: 0.0397
+
+Iteration: 2036 SalLoss: 0.0219
+Iteration: 719 SalLoss: 0.0245
+Iteration: 46 SalLoss: 0.0397
+
+Iteration: 2036 SalLoss: 0.0214
+Iteration: 47 SalLoss: 0.0377
+Iteration: 719 SalLoss: 0.0223
+Iteration: 360 SalLoss: 0.0197
+
+Iteration: 47 SalLoss: 0.0368
+
+Iteration: 2036 SalLoss: 0.0209
+Iteration: 47 SalLoss: 0.0369
+
+Iteration: 2037 SalLoss: 0.0248
+Iteration: 720 SalLoss: 0.0207
+Iteration: 47 SalLoss: 0.0368
+Iteration: 361 SalLoss: 0.0179
+
+Iteration: 47 SalLoss: 0.0369
+Iteration: 2037 SalLoss: 0.0224
+Iteration: 48 SalLoss: 0.0359
+Iteration: 720 SalLoss: 0.0203
+Iteration: 361 SalLoss: 0.0183
+
+Iteration: 48 SalLoss: 0.0353
+Iteration: 721 SalLoss: 0.0260
+
+Iteration: 362 SalLoss: 0.0275
+Iteration: 48 SalLoss: 0.0346
+
+Iteration: 2038 SalLoss: 0.0279
+Iteration: 721 SalLoss: 0.0234
+Iteration: 362 SalLoss: 0.0258
+Iteration: 48 SalLoss: 0.0346
+Iteration: 2038 SalLoss: 0.0251
+Iteration: 721 SalLoss: 0.0234
+Iteration: 362 SalLoss: 0.0244
+Iteration: 48 SalLoss: 0.0344
+1
+Iteration: 362 SalLoss: 0.0240
+Iteration: 722 SalLoss: 0.0285
+Iteration: 2038 SalLoss: 0.0226
+Iteration: 722 SalLoss: 0.0259
+Iteration: 362 SalLoss: 0.0238
+Iteration: 49 SalLoss: 0.0345
+1
+Iteration: 363 SalLoss: 0.0290
+Iteration: 2039 SalLoss: 0.0252
+Iteration: 49 SalLoss: 0.0342
+Iteration: 363 SalLoss: 0.0273
+
+Iteration: 49 SalLoss: 0.0343
+Iteration: 2039 SalLoss: 0.0216
+Iteration: 722 SalLoss: 0.0244
+Iteration: 49 SalLoss: 0.0342
+Iteration: 363 SalLoss: 0.0271
+Iteration: 2039 SalLoss: 0.0210
+Iteration: 50 SalLoss: 0.0395
+
+Iteration: 363 SalLoss: 0.0273
+Iteration: 2039 SalLoss: 0.0209
+Iteration: 50 SalLoss: 0.0389
+Iteration: 364 SalLoss: 0.0243
+
+Iteration: 723 SalLoss: 0.0167
+Iteration: 50 SalLoss: 0.0391
+Iteration: 2040 SalLoss: 0.0209
+Iteration: 723 SalLoss: 0.0168
+Iteration: 364 SalLoss: 0.0228
+Iteration: 2040 SalLoss: 0.0196
+Iteration: 50 SalLoss: 0.0389
+
+Iteration: 2040 SalLoss: 0.0196
+Iteration: 51 SalLoss: 0.0370
+Iteration: 724 SalLoss: 0.0274
+Iteration: 51 SalLoss: 0.0362
+Iteration: 365 SalLoss: 0.0283
+Iteration: 2040 SalLoss: 0.0197
+Iteration: 51 SalLoss: 0.0364
+
+Iteration: 365 SalLoss: 0.0260
+Iteration: 2041 SalLoss: 0.0281
+Iteration: 724 SalLoss: 0.0270
+Iteration: 51 SalLoss: 0.0363
+
+Iteration: 2041 SalLoss: 0.0257
+Iteration: 51 SalLoss: 0.0366
+Iteration: 365 SalLoss: 0.0250
+Iteration: 2041 SalLoss: 0.0238
+Iteration: 52 SalLoss: 0.0363
+Iteration: 365 SalLoss: 0.0251
+Iteration: 2041 SalLoss: 0.0234
+Iteration: 52 SalLoss: 0.0365
+Iteration: 366 SalLoss: 0.0198
+Iteration: 52 SalLoss: 0.0369
+2
+Iteration: 366 SalLoss: 0.0181
+Iteration: 726 SalLoss: 0.0239
+Iteration: 2042 SalLoss: 0.0165
+Iteration: 366 SalLoss: 0.0177
+Iteration: 726 SalLoss: 0.0223
+Iteration: 2042 SalLoss: 0.0153
+eration: 366 SalLoss: 0.0178
+Iteration: 53 SalLoss: 0.0366
+
+Iteration: 366 SalLoss: 0.0180
+Iteration: 2042 SalLoss: 0.0145
+Iteration: 53 SalLoss: 0.0356
+
+Iteration: 2042 SalLoss: 0.0145
+Iteration: 53 SalLoss: 0.0356
+Iteration: 367 SalLoss: 0.0225
+Iteration: 53 SalLoss: 0.0357
+6
+Iteration: 367 SalLoss: 0.0221
+Iteration: 727 SalLoss: 0.0185
+Iteration: 53 SalLoss: 0.0359
+9
+Iteration: 727 SalLoss: 0.0182
+Iteration: 367 SalLoss: 0.0219
+Iteration: 54 SalLoss: 0.0394
+3
+Iteration: 367 SalLoss: 0.0217
+Iteration: 54 SalLoss: 0.0380
+Iteration: 5 SalLoss: 0.2791
+67
+Iteration: 54 SalLoss: 0.0378
+
+Iteration: 728 SalLoss: 0.0244
+Iteration: 54 SalLoss: 0.0376
+
+
+Iteration: 728 SalLoss: 0.0237
+Iteration: 54 SalLoss: 0.0374
+1
+Iteration: 55 SalLoss: 0.0396
+7
+Iteration: 728 SalLoss: 0.0238
+Iteration: 368 SalLoss: 0.0284
+Iteration: 55 SalLoss: 0.0382
+
+
+Iteration: 2044 SalLoss: 0.0174
+Iteration: 368 SalLoss: 0.0282
+Iteration: 729 SalLoss: 0.0224
+Iteration: 55 SalLoss: 0.0380
+Iteration: 2044 SalLoss: 0.0174
+Iteration: 369 SalLoss: 0.0218
+Iteration: 729 SalLoss: 0.0208
+Iteration: 55 SalLoss: 0.0378
+Iteration: 369 SalLoss: 0.0203
+Iteration: 729 SalLoss: 0.0203
+Iteration: 6 SalLoss: 0.2732
+71
+Iteration: 55 SalLoss: 0.0381
+
+
+Iteration: 729 SalLoss: 0.0202
+Iteration: 2045 SalLoss: 0.0153
+Iteration: 56 SalLoss: 0.0391
+
+Iteration: 729 SalLoss: 0.0204
+Iteration: 2045 SalLoss: 0.0143
+Iteration: 56 SalLoss: 0.0379
+
+Iteration: 730 SalLoss: 0.0227
+Iteration: 369 SalLoss: 0.0190
+
+Iteration: 56 SalLoss: 0.0378
+
+Iteration: 2045 SalLoss: 0.0136
+Iteration: 730 SalLoss: 0.0216
+Iteration: 56 SalLoss: 0.0376
+Iteration: 2046 SalLoss: 0.0186
+Iteration: 730 SalLoss: 0.0218
+Iteration: 56 SalLoss: 0.0377
+
+Iteration: 731 SalLoss: 0.0232
+Iteration: 2046 SalLoss: 0.0170
+Iteration: 57 SalLoss: 0.0415
+
+Iteration: 2046 SalLoss: 0.0162
+Iteration: 731 SalLoss: 0.0217
+Iteration: 57 SalLoss: 0.0402
+Iteration: 370 SalLoss: 0.0187
+Iteration: 2046 SalLoss: 0.0160
+Iteration: 57 SalLoss: 0.0400
+Iteration: 371 SalLoss: 0.0243
+Iteration: 731 SalLoss: 0.0216
+Iteration: 2046 SalLoss: 0.0160
+Iteration: 57 SalLoss: 0.0396
+Iteration: 732 SalLoss: 0.0258
+Iteration: 371 SalLoss: 0.0223
+
+Iteration: 732 SalLoss: 0.0230
+Iteration: 57 SalLoss: 0.0395
+Iteration: 2047 SalLoss: 0.0210
+Iteration: 371 SalLoss: 0.0222
+Iteration: 2047 SalLoss: 0.0199
+Iteration: 58 SalLoss: 0.0374
+
+Iteration: 2047 SalLoss: 0.0195
+Iteration: 58 SalLoss: 0.0373
+
+Iteration: 2047 SalLoss: 0.0194
+Iteration: 732 SalLoss: 0.0217
+Iteration: 58 SalLoss: 0.0373
+
+Iteration: 2048 SalLoss: 0.0171
+Iteration: 733 SalLoss: 0.0189
+Iteration: 372 SalLoss: 0.0221
+Iteration: 58 SalLoss: 0.0376
+0
+Iteration: 733 SalLoss: 0.0174
+Iteration: 372 SalLoss: 0.0213
+Iteration: 59 SalLoss: 0.0294
+5
+Iteration: 733 SalLoss: 0.0170
+Iteration: 59 SalLoss: 0.0286
+2
+Iteration: 733 SalLoss: 0.0169
+Iteration: 59 SalLoss: 0.0283
+Iteration: 2048 SalLoss: 0.0152
+Iteration: 733 SalLoss: 0.0170
+Iteration: 59 SalLoss: 0.0278
+Iteration: 2049 SalLoss: 0.0218
+Iteration: 373 SalLoss: 0.0234
+Iteration: 59 SalLoss: 0.0280
+
+Iteration: 2049 SalLoss: 0.0206
+Iteration: 373 SalLoss: 0.0231
+Iteration: 60 SalLoss: 0.0378
+
+Iteration: 2049 SalLoss: 0.0197
+Iteration: 373 SalLoss: 0.0232
+Iteration: 60 SalLoss: 0.0377
+
+Iteration: 374 SalLoss: 0.0248
+
+Iteration: 734 SalLoss: 0.0231
+Iteration: 60 SalLoss: 0.0373
+Iteration: 374 SalLoss: 0.0235
+Iteration: 60 SalLoss: 0.0372
+4
+Iteration: 2050 SalLoss: 0.0228
+Iteration: 735 SalLoss: 0.0180
+
+Iteration: 60 SalLoss: 0.0376
+Iteration: 2050 SalLoss: 0.0191
+Iteration: 61 SalLoss: 0.0340
+
+Iteration: 2050 SalLoss: 0.0187
+Iteration: 61 SalLoss: 0.0327
+
+Iteration: 736 SalLoss: 0.0278
+Iteration: 736 SalLoss: 0.0257
+
+Iteration: 2051 SalLoss: 0.0224
+Iteration: 61 SalLoss: 0.0327
+
+Iteration: 736 SalLoss: 0.0247
+Iteration: 2051 SalLoss: 0.0203
+Iteration: 61 SalLoss: 0.0326
+Iteration: 736 SalLoss: 0.0245
+Iteration: 2051 SalLoss: 0.0190
+Iteration: 62 SalLoss: 0.0320
+Iteration: 376 SalLoss: 0.0207
+Iteration: 2051 SalLoss: 0.0188
+Iteration: 376 SalLoss: 0.0205
+Iteration: 737 SalLoss: 0.0227
+Iteration: 62 SalLoss: 0.0314
+
+
+Iteration: 737 SalLoss: 0.0214
+Iteration: 62 SalLoss: 0.0315
+
+
+Iteration: 377 SalLoss: 0.0229
+Iteration: 62 SalLoss: 0.0317
+6
+Iteration: 737 SalLoss: 0.0214
+Iteration: 377 SalLoss: 0.0213
+Iteration: 6 SalLoss: 0.2531
+
+0
+Iteration: 738 SalLoss: 0.0274
+Iteration: 377 SalLoss: 0.0206
+Iteration: 63 SalLoss: 0.0408
+9
+Iteration: 738 SalLoss: 0.0255
+Iteration: 377 SalLoss: 0.0204
+Iteration: 63 SalLoss: 0.0400
+9
+Iteration: 738 SalLoss: 0.0241
+Iteration: 63 SalLoss: 0.0403
+9
+Iteration: 738 SalLoss: 0.0239
+Iteration: 378 SalLoss: 0.0277
+
+Iteration: 63 SalLoss: 0.0403
+
+Iteration: 2053 SalLoss: 0.0191
+Iteration: 739 SalLoss: 0.0267
+Iteration: 64 SalLoss: 0.0361
+Iteration: 378 SalLoss: 0.0261
+
+Iteration: 64 SalLoss: 0.0353
+5
+Iteration: 739 SalLoss: 0.0246
+Iteration: 378 SalLoss: 0.0259
+Iteration: 64 SalLoss: 0.0352
+4
+Iteration: 378 SalLoss: 0.0262
+Iteration: 739 SalLoss: 0.0243
+Iteration: 64 SalLoss: 0.0354
+9
+Iteration: 379 SalLoss: 0.0213
+Iteration: 739 SalLoss: 0.0244
+Iteration: 2054 SalLoss: 0.0207
+Iteration: 64 SalLoss: 0.0352
+
+Iteration: 740 SalLoss: 0.0224
+Iteration: 2054 SalLoss: 0.0201
+Iteration: 65 SalLoss: 0.0304
+
+Iteration: 740 SalLoss: 0.0208
+Iteration: 65 SalLoss: 0.0289
+8
+Iteration: 740 SalLoss: 0.0201
+Iteration: 65 SalLoss: 0.0286
+6
+Iteration: 740 SalLoss: 0.0200
+
+Iteration: 65 SalLoss: 0.0285
+Iteration: 380 SalLoss: 0.0134
+
+Iteration: 380 SalLoss: 0.0115
+Iteration: 65 SalLoss: 0.0283
+Iteration: 2055 SalLoss: 0.0178
+teration: 380 SalLoss: 0.0114
+Iteration: 66 SalLoss: 0.0321
+
+Iteration: 2055 SalLoss: 0.0173
+Iteration: 741 SalLoss: 0.0225
+Iteration: 66 SalLoss: 0.0320
+Iteration: 2056 SalLoss: 0.0272
+Iteration: 741 SalLoss: 0.0225
+Iteration: 66 SalLoss: 0.0317
+Iteration: 2056 SalLoss: 0.0250
+Iteration: 742 SalLoss: 0.0231
+Iteration: 66 SalLoss: 0.0320
+Iteration: 2056 SalLoss: 0.0237
+Iteration: 742 SalLoss: 0.0222
+Iteration: 66 SalLoss: 0.0321
+
+Iteration: 742 SalLoss: 0.0216
+Iteration: 2056 SalLoss: 0.0237
+Iteration: 67 SalLoss: 0.0322
+
+Iteration: 2056 SalLoss: 0.0233
+Iteration: 67 SalLoss: 0.0313
+
+Iteration: 2057 SalLoss: 0.0290
+Iteration: 743 SalLoss: 0.0240
+Iteration: 2057 SalLoss: 0.0264
+Iteration: 67 SalLoss: 0.0314
+Iteration: 743 SalLoss: 0.0224
+Iteration: 382 SalLoss: 0.0287
+Iteration: 2057 SalLoss: 0.0255
+Iteration: 67 SalLoss: 0.0310
+
+Iteration: 382 SalLoss: 0.0275
+Iteration: 2057 SalLoss: 0.0252
+Iteration: 67 SalLoss: 0.0311
+
+Iteration: 743 SalLoss: 0.0226
+Iteration: 2057 SalLoss: 0.0250
+Iteration: 68 SalLoss: 0.0320
+Iteration: 744 SalLoss: 0.0176
+Iteration: 2058 SalLoss: 0.0244
+Iteration: 68 SalLoss: 0.0314
+
+Iteration: 2058 SalLoss: 0.0229
+Iteration: 68 SalLoss: 0.0310
+
+Iteration: 744 SalLoss: 0.0164
+Iteration: 2058 SalLoss: 0.0226
+Iteration: 68 SalLoss: 0.0308
+
+Iteration: 2058 SalLoss: 0.0225
+Iteration: 744 SalLoss: 0.0166
+Iteration: 383 SalLoss: 0.0202
+Iteration: 68 SalLoss: 0.0310
+5
+Iteration: 745 SalLoss: 0.0274
+Iteration: 384 SalLoss: 0.0180
+Iteration: 2059 SalLoss: 0.0197
+Iteration: 69 SalLoss: 0.0368
+Iteration: 745 SalLoss: 0.0258
+Iteration: 384 SalLoss: 0.0171
+Iteration: 2059 SalLoss: 0.0181
+Iteration: 69 SalLoss: 0.0356
+Iteration: 384 SalLoss: 0.0170
+Iteration: 69 SalLoss: 0.0349
+2
+Iteration: 745 SalLoss: 0.0247
+Iteration: 384 SalLoss: 0.0170
+Iteration: 69 SalLoss: 0.0349
+7
+Iteration: 745 SalLoss: 0.0250
+Iteration: 2059 SalLoss: 0.0166
+Iteration: 69 SalLoss: 0.0352
+
+Iteration: 746 SalLoss: 0.0265
+Iteration: 385 SalLoss: 0.0273
+
+Iteration: 70 SalLoss: 0.0309
+7
+Iteration: 385 SalLoss: 0.0266
+Iteration: 70 SalLoss: 0.0296
+
+
+Iteration: 385 SalLoss: 0.0265
+Iteration: 70 SalLoss: 0.0297
+Iteration: 746 SalLoss: 0.0232
+
+Iteration: 385 SalLoss: 0.0268
+Iteration: 70 SalLoss: 0.0295
+Iteration: 2060 SalLoss: 0.0183
+teration: 386 SalLoss: 0.0252
+Iteration: 70 SalLoss: 0.0301
+Iteration: 386 SalLoss: 0.0235
+Iteration: 2061 SalLoss: 0.0243
+Iteration: 71 SalLoss: 0.0337
+
+
+Iteration: 747 SalLoss: 0.0187
+Iteration: 71 SalLoss: 0.0328
+
+
+Iteration: 71 SalLoss: 0.0327
+1
+Iteration: 747 SalLoss: 0.0179
+Iteration: 71 SalLoss: 0.0326
+
+Iteration: 2061 SalLoss: 0.0207
+Iteration: 747 SalLoss: 0.0180
+Iteration: 71 SalLoss: 0.0329
+7
+Iteration: 72 SalLoss: 0.0351
+5
+Iteration: 748 SalLoss: 0.0198
+Iteration: 72 SalLoss: 0.0337
+
+
+Iteration: 748 SalLoss: 0.0193
+Iteration: 72 SalLoss: 0.0326
+9
+Iteration: 748 SalLoss: 0.0191
+Iteration: 388 SalLoss: 0.0181
+Iteration: 2062 SalLoss: 0.0215
+Iteration: 388 SalLoss: 0.0182
+Iteration: 72 SalLoss: 0.0320
+3
+Iteration: 388 SalLoss: 0.0169
+
+Iteration: 2063 SalLoss: 0.0186
+Iteration: 73 SalLoss: 0.0323
+
+Iteration: 2063 SalLoss: 0.0184
+Iteration: 73 SalLoss: 0.0323
+Iteration: 749 SalLoss: 0.0182
+Iteration: 73 SalLoss: 0.0322
+5
+Iteration: 750 SalLoss: 0.0338
+Iteration: 73 SalLoss: 0.0326
+5
+Iteration: 750 SalLoss: 0.0322
+Iteration: 74 SalLoss: 0.0310
+4
+Iteration: 750 SalLoss: 0.0316
+Iteration: 389 SalLoss: 0.0254
+
+Iteration: 750 SalLoss: 0.0312
+Iteration: 74 SalLoss: 0.0303
+Iteration: 2064 SalLoss: 0.0172
+Iteration: 74 SalLoss: 0.0306
+Iteration: 751 SalLoss: 0.0320
+Iteration: 74 SalLoss: 0.0306
+2
+Iteration: 75 SalLoss: 0.0316
+9
+Iteration: 390 SalLoss: 0.0273
+Iteration: 75 SalLoss: 0.0310
+2
+Iteration: 2065 SalLoss: 0.0223
+Iteration: 75 SalLoss: 0.0306
+Iteration: 2065 SalLoss: 0.0219
+Iteration: 390 SalLoss: 0.0266
+Iteration: 75 SalLoss: 0.0304
+1
+Iteration: 2066 SalLoss: 0.0208
+Iteration: 2066 SalLoss: 0.0184
+Iteration: 75 SalLoss: 0.0308
+Iteration: 2066 SalLoss: 0.0175
+Iteration: 753 SalLoss: 0.0200
+Iteration: 391 SalLoss: 0.0313
+Iteration: 2066 SalLoss: 0.0173
+Iteration: 76 SalLoss: 0.0325
+
+Iteration: 391 SalLoss: 0.0310
+Iteration: 76 SalLoss: 0.0325
+4
+Iteration: 753 SalLoss: 0.0173
+Iteration: 2067 SalLoss: 0.0228
+Iteration: 2067 SalLoss: 0.0204
+teration: 76 SalLoss: 0.0326
+Iteration: 754 SalLoss: 0.0239
+Iteration: 77 SalLoss: 0.0387
+
+Iteration: 2067 SalLoss: 0.0194
+Iteration: 754 SalLoss: 0.0227
+Iteration: 77 SalLoss: 0.0375
+1
+Iteration: 393 SalLoss: 0.0255
+
+Iteration: 2068 SalLoss: 0.0262Iteration: 77 SalLoss: 0.0369
+
+Iteration: 393 SalLoss: 0.0234
+
+Iteration: 77 SalLoss: 0.0367
+
+
+Iteration: 754 SalLoss: 0.0223
+Iteration: 2068 SalLoss: 0.0226
+Iteration: 7 SalLoss: 0.2254
+7
+Iteration: 393 SalLoss: 0.0234
+
+Iteration: 78 SalLoss: 0.0294
+Iteration: 755 SalLoss: 0.0284
+Iteration: 2069 SalLoss: 0.0179
+Iteration: 394 SalLoss: 0.0244
+Iteration: 78 SalLoss: 0.0276
+Iteration: 755 SalLoss: 0.0261
+Iteration: 2069 SalLoss: 0.0166
+Iteration: 394 SalLoss: 0.0230
+Iteration: 78 SalLoss: 0.0272
+
+Iteration: 2069 SalLoss: 0.0159
+Iteration: 755 SalLoss: 0.0243
+Iteration: 394 SalLoss: 0.0228
+Iteration: 78 SalLoss: 0.0273
+Iteration: 755 SalLoss: 0.0242
+
+Iteration: 394 SalLoss: 0.0229
+Iteration: 78 SalLoss: 0.0273
+Iteration: 2069 SalLoss: 0.0159
+Iteration: 394 SalLoss: 0.0233
+Iteration: 79 SalLoss: 0.0308
+
+Iteration: 2070 SalLoss: 0.0149
+Iteration: 756 SalLoss: 0.0201
+Iteration: 79 SalLoss: 0.0306
+Iteration: 395 SalLoss: 0.0243
+
+Iteration: 756 SalLoss: 0.0198
+Iteration: 79 SalLoss: 0.0306
+Iteration: 395 SalLoss: 0.0237
+
+Iteration: 756 SalLoss: 0.0196
+Iteration: 2070 SalLoss: 0.0123
+Iteration: 757 SalLoss: 0.0221
+Iteration: 2070 SalLoss: 0.0125
+Iteration: 80 SalLoss: 0.0264
+
+Iteration: 2071 SalLoss: 0.0227
+Iteration: 757 SalLoss: 0.0210
+Iteration: 80 SalLoss: 0.0262
+Iteration: 396 SalLoss: 0.0235
+
+Iteration: 80 SalLoss: 0.0258
+4
+Iteration: 758 SalLoss: 0.0191
+Iteration: 396 SalLoss: 0.0226
+Iteration: 80 SalLoss: 0.0261
+9
+Iteration: 758 SalLoss: 0.0175
+Iteration: 396 SalLoss: 0.0224
+Iteration: 80 SalLoss: 0.0261
+8
+Iteration: 758 SalLoss: 0.0166
+Iteration: 396 SalLoss: 0.0220
+Iteration: 2072 SalLoss: 0.0261
+Iteration: 81 SalLoss: 0.0367
+Iteration: 2072 SalLoss: 0.0243
+Iteration: 81 SalLoss: 0.0348
+
+Iteration: 2072 SalLoss: 0.0232
+Iteration: 81 SalLoss: 0.0347
+
+Iteration: 759 SalLoss: 0.0240
+Iteration: 2072 SalLoss: 0.0232
+Iteration: 81 SalLoss: 0.0344
+
+Iteration: 759 SalLoss: 0.0234
+Iteration: 2072 SalLoss: 0.0233
+Iteration: 81 SalLoss: 0.0342
+
+Iteration: 2073 SalLoss: 0.0220
+Iteration: 760 SalLoss: 0.0232
+Iteration: 82 SalLoss: 0.0305
+Iteration: 2073 SalLoss: 0.0200
+Iteration: 82 SalLoss: 0.0301
+Iteration: 2073 SalLoss: 0.0191
+Iteration: 82 SalLoss: 0.0302
+Iteration: 760 SalLoss: 0.0206
+Iteration: 2073 SalLoss: 0.0189
+Iteration: 398 SalLoss: 0.0287
+Iteration: 82 SalLoss: 0.0305
+Iteration: 760 SalLoss: 0.0208
+Iteration: 2073 SalLoss: 0.0184
+Iteration: 761 SalLoss: 0.0263
+Iteration: 82 SalLoss: 0.0308
+Iteration: 2074 SalLoss: 0.0165
+Iteration: 83 SalLoss: 0.0399
+
+Iteration: 2074 SalLoss: 0.0148
+Iteration: 83 SalLoss: 0.0382
+Iteration: 761 SalLoss: 0.0245
+
+Iteration: 399 SalLoss: 0.0179
+Iteration: 83 SalLoss: 0.0372
+6
+Iteration: 762 SalLoss: 0.0257
+Iteration: 2074 SalLoss: 0.0134
+Iteration: 399 SalLoss: 0.0180
+Iteration: 83 SalLoss: 0.0371
+Iteration: 762 SalLoss: 0.0237
+Iteration: 2075 SalLoss: 0.0212
+Iteration: 83 SalLoss: 0.0373
+
+Iteration: 762 SalLoss: 0.0231
+Iteration: 2075 SalLoss: 0.0193
+Iteration: 84 SalLoss: 0.0278
+
+Iteration: 2075 SalLoss: 0.0189
+Iteration: 762 SalLoss: 0.0228
+Iteration: 84 SalLoss: 0.0285
+
+Iteration: 2075 SalLoss: 0.0186
+Iteration: 84 SalLoss: 0.0281
+Iteration: 763 SalLoss: 0.0255
+Iteration: 84 SalLoss: 0.0284
+7
+Iteration: 763 SalLoss: 0.0232
+Iteration: 84 SalLoss: 0.0283
+7
+Iteration: 763 SalLoss: 0.0222
+Iteration: 2076 SalLoss: 0.0126
+Iteration: 401 SalLoss: 0.0219
+Iteration: 2076 SalLoss: 0.0117
+Iteration: 763 SalLoss: 0.0218
+Iteration: 401 SalLoss: 0.0210
+Iteration: 2076 SalLoss: 0.0114
+eration: 764 SalLoss: 0.0250
+Iteration: 401 SalLoss: 0.0210
+Iteration: 764 SalLoss: 0.0220
+Iteration: 85 SalLoss: 0.0338
+Iteration: 401 SalLoss: 0.0209
+
+Iteration: 85 SalLoss: 0.0339
+
+Iteration: 764 SalLoss: 0.0204
+Iteration: 2077 SalLoss: 0.0215
+Iteration: 86 SalLoss: 0.0364
+Iteration: 402 SalLoss: 0.0207
+
+Iteration: 86 SalLoss: 0.0355
+Iteration: 2077 SalLoss: 0.0181
+Iteration: 86 SalLoss: 0.0352
+Iteration: 2077 SalLoss: 0.0178
+Iteration: 86 SalLoss: 0.0348
+6
+Iteration: 86 SalLoss: 0.0349
+5
+Iteration: 87 SalLoss: 0.0272
+0
+Iteration: 87 SalLoss: 0.0266
+6
+Iteration: 2078 SalLoss: 0.0225
+Iteration: 87 SalLoss: 0.0261
+Iteration: 766 SalLoss: 0.0243
+Iteration: 2078 SalLoss: 0.0227
+Iteration: 87 SalLoss: 0.0261
+
+Iteration: 2079 SalLoss: 0.0253
+Iteration: 87 SalLoss: 0.0264
+
+Iteration: 2079 SalLoss: 0.0230
+Iteration: 88 SalLoss: 0.0415
+
+Iteration: 2079 SalLoss: 0.0218
+Iteration: 88 SalLoss: 0.0399
+
+Iteration: 766 SalLoss: 0.0203
+Iteration: 88 SalLoss: 0.0391
+3
+Iteration: 767 SalLoss: 0.0304
+Iteration: 2079 SalLoss: 0.0210
+Iteration: 2080 SalLoss: 0.0327
+Iteration: 767 SalLoss: 0.0276
+Iteration: 405 SalLoss: 0.0231
+Iteration: 767 SalLoss: 0.0265
+
+Iteration: 89 SalLoss: 0.0307
+1
+Iteration: 405 SalLoss: 0.0230
+Iteration: 2080 SalLoss: 0.0279
+Iteration: 405 SalLoss: 0.0231
+Iteration: 2080 SalLoss: 0.0275
+Iteration: 89 SalLoss: 0.0308
+Iteration: 406 SalLoss: 0.0333
+
+Iteration: 406 SalLoss: 0.0321
+
+Iteration: 90 SalLoss: 0.0294
+5
+Iteration: 90 SalLoss: 0.0288
+5
+Iteration: 769 SalLoss: 0.0247
+Iteration: 407 SalLoss: 0.0268
+Iteration: 2081 SalLoss: 0.0183
+Iteration: 407 SalLoss: 0.0254
+Iteration: 2082 SalLoss: 0.0247

@@ -254,3 +254,12 @@ Time to witness the mirracle!
   warnings.warn("nn.functional.upsample is deprecated. Use nn.functional.interpolate instead.")
 /home/LAB/penghao/anaconda3/lib/python3.6/site-packages/imageio/core/util.py:78: UserWarning: Lossy conversion from float32 to uint8, range [0, 1]
   dtype_str, out_type.__name__))
+2020-03-24 17:51:10.467037 Epoch [000/050], Step [0010/0153], LR: 0.005000, SalLoss: 0.3930
+2020-03-24 17:51:59.587776 Epoch [000/050], Step [0020/0153], LR: 0.005000, SalLoss: 0.2438
+2020-03-24 17:52:44.256997 Epoch [000/050], Step [0030/0153], LR: 0.005000, SalLoss: 0.1813
+2020-03-24 17:53:20.216749 Epoch [000/050], Step [0040/0153], LR: 0.005000, SalLoss: 0.1472
+2020-03-24 17:53:54.830372 Epoch [000/050], Step [0050/0153], LR: 0.005000, SalLoss: 0.0585
+2020-03-24 17:54:26.850921 Epoch [000/050], Step [0060/0153], LR: 0.005000, SalLoss: 0.0440
+2020-03-24 17:55:00.604448 Epoch [000/050], Step [0070/0153], LR: 0.005000, SalLoss: 0.0383
+2020-03-24 17:55:55.373720 Epoch [000/050], Step [0080/0153], LR: 0.005000, SalLoss: 0.0350
+2020-03-24 17:56:30.660500 Epoch [000/050], Step [0090/0153], LR: 0.005000, SalLoss: 0.0334
