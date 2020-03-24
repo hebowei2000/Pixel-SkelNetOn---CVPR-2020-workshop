@@ -1,4 +1,4 @@
-Learning Rate: 0.005 ResNet: True Trainset: DUTS_TRAIN
+Learning Rate: 0.08 ResNet: True Trainset: DUTS_TRAIN
 initialize: conv1
 initialize: bn1
 initialize: conv2
@@ -254,13 +254,8 @@ Time to witness the mirracle!
   warnings.warn("nn.functional.upsample is deprecated. Use nn.functional.interpolate instead.")
 /home/LAB/penghao/anaconda3/lib/python3.6/site-packages/imageio/core/util.py:78: UserWarning: Lossy conversion from float32 to uint8, range [0, 1]
   dtype_str, out_type.__name__))
-2020-03-24 18:04:22.552809 Epoch [000/050], Step [0010/0153], LR: 0.005000, SalLoss: 0.3929
-2020-03-24 18:05:05.280401 Epoch [000/050], Step [0020/0153], LR: 0.005000, SalLoss: 0.2438
-2020-03-24 18:05:49.085123 Epoch [000/050], Step [0030/0153], LR: 0.005000, SalLoss: 0.1814
-2020-03-24 18:06:42.058915 Epoch [000/050], Step [0040/0153], LR: 0.005000, SalLoss: 0.1473
-2020-03-24 18:07:15.944515 Epoch [000/050], Step [0050/0153], LR: 0.005000, SalLoss: 0.0586
-2020-03-24 18:07:56.040505 Epoch [000/050], Step [0060/0153], LR: 0.005000, SalLoss: 0.0441
-2020-03-24 18:08:32.688057 Epoch [000/050], Step [0070/0153], LR: 0.005000, SalLoss: 0.0384
-2020-03-24 18:09:17.613499 Epoch [000/050], Step [0080/0153], LR: 0.005000, SalLoss: 0.0350
-2020-03-24 18:09:40.740617 Epoch [000/050], Step [0090/0153], LR: 0.005000, SalLoss: 0.0335
-2020-03-24 18:10:06.705993 Epoch [000/050], Step [0100/0153], LR: 0.005000, SalLoss: 0.0316
+2020-03-24 18:17:58.344011 Epoch [000/050], Step [0010/0153], LR: 0.080000, SalLoss: 0.1630
+2020-03-24 18:18:26.187234 Epoch [000/050], Step [0020/0153], LR: 0.080000, SalLoss: 0.0953
+2020-03-24 18:18:56.222972 Epoch [000/050], Step [0030/0153], LR: 0.080000, SalLoss: 0.0726
+2020-03-24 18:19:21.139827 Epoch [000/050], Step [0040/0153], LR: 0.080000, SalLoss: 0.0612
+2020-03-24 18:19:51.236572 Epoch [000/050], Step [0050/0153], LR: 0.080000, SalLoss: 0.0268
