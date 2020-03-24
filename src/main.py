@@ -1,7 +1,7 @@
 import argparse
 import sys
 from datetime import datetime
-
+import cv2
 import imageio
 
 sys.path.insert(0, '../')
@@ -94,7 +94,8 @@ def test(model, epoch, args):
             attention = F.upsample(attention, size=(256, 256), mode='bilinear', align_corners=True)
             res = attention.sigmoid().data.cpu().numpy().squeeze()
             # res = (res - res.min()) / (res.max() - res.min() + 1e-8)
-            imageio.imsave('../data/result/' + name + '.png', res)
+            ret,res_bi=cv2.threshold(res,7,255,cv2.THRESH_BINARY)
+            imageio.imsave('../data/result/' + name + '.png', res_bi)
 
 
 def main():
