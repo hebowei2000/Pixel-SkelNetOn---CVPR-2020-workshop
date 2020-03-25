@@ -8,5 +8,5 @@ paths.sort()
 
 for path in paths:
     img = cv2.imread(path)
-    ret,thresh = cv2.threshold(img,7,225,cv2.THRESH_BINARY)
-    cv2.imwrite('../data/result1'+(path - PATH),thresh)
+    ret,thresh = cv2.threshold(img,2,225,cv2.THRESH_BINARY)
+    cv2.imwrite(path,thresh)
