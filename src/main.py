@@ -94,8 +94,8 @@ def test(model, epoch, args):
             attention = F.upsample(attention, size=(256, 256), mode='bilinear', align_corners=True)
             res = attention.sigmoid().data.cpu().numpy().squeeze()
             # res = (res - res.min()) / (res.max() - res.min() + 1e-8)
-            ret,res_bi=cv2.threshold(res,7,255,cv2.THRESH_BINARY)
-            imageio.imsave('../data/result/' + name + '.png', res_bi)
+           # ret,res_bi=cv2.threshold(res,7,255,cv2.THRESH_BINARY)
+            imageio.imsave('../data/result/' + name + '.png', res)
 
 
 def main():

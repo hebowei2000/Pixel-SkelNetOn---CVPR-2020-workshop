@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "main.py", line 14, in <module>
+    from net import *
+  File "/home/LAB/penghao/Pixel-SkelNetOn---CVPR-2020-workshop/src/net/__init__.py", line 1, in <module>
+    from .baseline import *
+  File "/home/LAB/penghao/Pixel-SkelNetOn---CVPR-2020-workshop/src/net/baseline.py", line 6, in <module>
+    from .resnet import ResNet50
+  File "/home/LAB/penghao/Pixel-SkelNetOn---CVPR-2020-workshop/src/net/resnet.py", line 204, in <module>
+    class ResNet101_Dropout(nn.module):
+AttributeError: module 'torch.nn' has no attribute 'module'
