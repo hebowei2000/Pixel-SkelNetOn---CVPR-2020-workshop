@@ -201,7 +201,7 @@ class ResNet101(nn.Module):
 
         return x
 
-class ResNet101_Dropout(nn.module):
+class ResNet101_Dropout(nn.Module):
     def __init__(self,rate=0.3):
         #self.inplanes = 128
         self.inplanes = 64
