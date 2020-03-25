@@ -48,14 +48,14 @@ def train(train_loader, model, optimizer, args):
                 pred_sal = model(ims)
 
                 loss_sal = nn.BCEWithLogitsLoss()(pred_sal, gts)
-                loss_dice=Loss.dice_loss(pred,gts)
+                loss_dice=Loss.dice_loss(pred_sal,gts)
                 loss = Loss.structure_loss(pred_sal,gts)
                 loss.backward()
 
                 optimizer.step()
-                log = 'Iteration: {:d} SalLoss: {:.4f} DiceLoss:{:.4f} Loss:{:.4f}'.format(global_step,
-                                                               loss_sal.data.cpu().numpy(),loss_dice.data.cpu(),numpy(),loss.data.cpu())
-                open(args.log_path + '.log', 'a').write(log + '\n')
+               # log = 'Iteration: {:d} SalLoss: {:.4f} DiceLoss:{:.4f} Loss:{:.4f}'.format(global_step,
+                #                                              loss_sal.data.cpu().numpy(),loss_dice.data.cpu().numpy(),loss.data.cpu().numpy())
+               # open(args.log_path + '.log', 'a').write(log + '\n')
                 if rate == 1:
                     loss_sal_record.update(loss_sal.data, args.batch_size)
                     loss_dice_record.update(loss_dice.data,args.batch_size)
@@ -68,12 +68,13 @@ def train(train_loader, model, optimizer, args):
                            global_step=global_step)
             sw.add_scalars('Loss', {'Loss':loss_record.show()},
                             global_step=global_step)
-            
-
+            log = 'Iteration: {:d} SalLoss: {:.4f} DiceLoss:{:.4f} Loss:{:.4f}'.format(global_step,loss_sal_record.show(),
+                    loss_dice_record.show(),loss_record.show())
+            open(args.log_path + '.log','a').write(log + '\n')
             if step % 10 == 0 or step == total_step:
                 print('{} Epoch [{:03d}/{:03d}], Step [{:04d}/{:04d}], LR: {:.6f}, SalLoss: {:.4f}, DiceLoss:{:.4f}, Loss:{:.4f}'.
                       format(datetime.now(), epoch, args.epoch, step, total_step, scheduler.get_lr()[0],
-                             loss_sal_record.show()),loss_dice_record.show(),loss_record.show(), flush=True)
+                             loss_sal_record.show(),loss_dice_record.show(),loss_record.show()), flush=True)
             global_step += 1
 
         if not os.path.exists(save_path):

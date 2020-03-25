@@ -1,4 +1,4 @@
 from .data import *
 from .func import *
-from .loss import *
+from .Loss import *
 from .metric import *

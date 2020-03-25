@@ -1,0 +1,361 @@
+Learning Rate: 0.05 ResNet: True Trainset: DUTS_TRAIN
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: downsample
+initialize: 0
+initialize: 1
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: downsample
+initialize: 0
+initialize: 1
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: downsample
+initialize: 0
+initialize: 1
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: downsample
+initialize: 0
+initialize: 1
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: reduce
+initialize: 0
+initialize: 1
+initialize: 2
+initialize: 3
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: reduce
+initialize: 0
+initialize: 1
+initialize: 2
+initialize: 3
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: reduce
+initialize: 0
+initialize: 1
+initialize: 2
+initialize: 3
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: reduce
+initialize: 0
+initialize: 1
+initialize: 2
+initialize: 3
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: convs
+initialize: cat
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: upsample
+initialize: conv_upsample1
+initialize: conv_upsample2
+initialize: conv_upsample3
+initialize: conv_cat1
+initialize: 0
+initialize: 1
+initialize: conv_cat2
+initialize: 0
+initialize: 1
+initialize: conv_cat3
+initialize: 0
+initialize: 1
+initialize: output
+initialize: 0
+initialize: 1
+initialize: resnet
+initialize: reduce_s1
+initialize: reduce_s2
+initialize: reduce_s3
+initialize: reduce_s4
+initialize: ppm
+initialize: output_s
+Time to witness the mirracle!
+/home/LAB/penghao/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py:2416: UserWarning: nn.functional.upsample is deprecated. Use nn.functional.interpolate instead.
+  warnings.warn("nn.functional.upsample is deprecated. Use nn.functional.interpolate instead.")
+/home/LAB/penghao/anaconda3/lib/python3.6/site-packages/imageio/core/util.py:78: UserWarning: Lossy conversion from float32 to uint8, range [0, 1]
+  dtype_str, out_type.__name__))
+2020-03-26 00:38:22.438066 Epoch [000/050], Step [0010/0153], LR: 0.050000, SalLoss: 0.2046, DiceLoss:0.8153, Loss:1.9106
+2020-03-26 00:38:29.178538 Epoch [000/050], Step [0020/0153], LR: 0.050000, SalLoss: 0.1339, DiceLoss:0.7125, Loss:1.6625
+2020-03-26 00:38:35.939448 Epoch [000/050], Step [0030/0153], LR: 0.050000, SalLoss: 0.1110, DiceLoss:0.6382, Loss:1.5084
+2020-03-26 00:38:42.720316 Epoch [000/050], Step [0040/0153], LR: 0.050000, SalLoss: 0.1003, DiceLoss:0.5916, Loss:1.4139
+2020-03-26 00:38:49.496263 Epoch [000/050], Step [0050/0153], LR: 0.050000, SalLoss: 0.0672, DiceLoss:0.4934, Loss:1.2061
+2020-03-26 00:38:56.468527 Epoch [000/050], Step [0060/0153], LR: 0.050000, SalLoss: 0.0690, DiceLoss:0.4488, Loss:1.1255
+2020-03-26 00:39:03.412042 Epoch [000/050], Step [0070/0153], LR: 0.050000, SalLoss: 0.0712, DiceLoss:0.4315, Loss:1.0949
+2020-03-26 00:39:10.454578 Epoch [000/050], Step [0080/0153], LR: 0.050000, SalLoss: 0.0711, DiceLoss:0.4191, Loss:1.0712
+2020-03-26 00:39:17.449994 Epoch [000/050], Step [0090/0153], LR: 0.050000, SalLoss: 0.0719, DiceLoss:0.4133, Loss:1.0610
+2020-03-26 00:39:24.368008 Epoch [000/050], Step [0100/0153], LR: 0.050000, SalLoss: 0.0709, DiceLoss:0.4033, Loss:1.0411
+2020-03-26 00:39:31.423933 Epoch [000/050], Step [0110/0153], LR: 0.050000, SalLoss: 0.0701, DiceLoss:0.3916, Loss:1.0176
+2020-03-26 00:39:38.408784 Epoch [000/050], Step [0120/0153], LR: 0.050000, SalLoss: 0.0688, DiceLoss:0.3796, Loss:0.9919
+2020-03-26 00:39:45.593931 Epoch [000/050], Step [0130/0153], LR: 0.050000, SalLoss: 0.0670, DiceLoss:0.3800, Loss:0.9905
+2020-03-26 00:39:52.107793 Epoch [000/050], Step [0140/0153], LR: 0.050000, SalLoss: 0.0673, DiceLoss:0.3747, Loss:0.9802
+2020-03-26 00:39:58.644532 Epoch [000/050], Step [0150/0153], LR: 0.050000, SalLoss: 0.0660, DiceLoss:0.3758, Loss:0.9806
+2020-03-26 00:40:00.221646 Epoch [000/050], Step [0153/0153], LR: 0.050000, SalLoss: 0.0661, DiceLoss:0.3788, Loss:0.9868
+/home/LAB/penghao/anaconda3/lib/python3.6/site-packages/torch/nn/_reduction.py:43: UserWarning: size_average and reduce args will be deprecated, please use reduction='mean' instead.
+  warnings.warn(warning.format(ret))
+2020-03-26 00:40:09.092771 Epoch [001/050], Step [0010/0153], LR: 0.050000, SalLoss: 0.0656, DiceLoss:0.3871, Loss:1.0022
+2020-03-26 00:40:15.957814 Epoch [001/050], Step [0020/0153], LR: 0.050000, SalLoss: 0.0639, DiceLoss:0.3789, Loss:0.9840
+2020-03-26 00:40:22.824842 Epoch [001/050], Step [0030/0153], LR: 0.050000, SalLoss: 0.0647, DiceLoss:0.3831, Loss:0.9934
+2020-03-26 00:40:29.684996 Epoch [001/050], Step [0040/0153], LR: 0.050000, SalLoss: 0.0663, DiceLoss:0.3796, Loss:0.9876
+2020-03-26 00:40:36.547335 Epoch [001/050], Step [0050/0153], LR: 0.050000, SalLoss: 0.0668, DiceLoss:0.3718, Loss:0.9730
+2020-03-26 00:40:43.412021 Epoch [001/050], Step [0060/0153], LR: 0.050000, SalLoss: 0.0674, DiceLoss:0.3712, Loss:0.9723
+2020-03-26 00:40:50.237717 Epoch [001/050], Step [0070/0153], LR: 0.050000, SalLoss: 0.0670, DiceLoss:0.3658, Loss:0.9615
+2020-03-26 00:40:57.219420 Epoch [001/050], Step [0080/0153], LR: 0.050000, SalLoss: 0.0656, DiceLoss:0.3650, Loss:0.9589
+2020-03-26 00:41:04.103249 Epoch [001/050], Step [0090/0153], LR: 0.050000, SalLoss: 0.0650, DiceLoss:0.3586, Loss:0.9453
+2020-03-26 00:41:10.964223 Epoch [001/050], Step [0100/0153], LR: 0.050000, SalLoss: 0.0651, DiceLoss:0.3523, Loss:0.9326
+2020-03-26 00:41:17.830666 Epoch [001/050], Step [0110/0153], LR: 0.050000, SalLoss: 0.0653, DiceLoss:0.3479, Loss:0.9238
+2020-03-26 00:41:24.680220 Epoch [001/050], Step [0120/0153], LR: 0.050000, SalLoss: 0.0651, DiceLoss:0.3456, Loss:0.9189
+2020-03-26 00:41:31.455825 Epoch [001/050], Step [0130/0153], LR: 0.050000, SalLoss: 0.0647, DiceLoss:0.3429, Loss:0.9129
+2020-03-26 00:41:37.957427 Epoch [001/050], Step [0140/0153], LR: 0.050000, SalLoss: 0.0633, DiceLoss:0.3428, Loss:0.9111
+2020-03-26 00:41:44.470702 Epoch [001/050], Step [0150/0153], LR: 0.050000, SalLoss: 0.0627, DiceLoss:0.3414, Loss:0.9075
+2020-03-26 00:41:46.042809 Epoch [001/050], Step [0153/0153], LR: 0.050000, SalLoss: 0.0618, DiceLoss:0.3434, Loss:0.9105
+2020-03-26 00:41:54.800564 Epoch [002/050], Step [0010/0153], LR: 0.050000, SalLoss: 0.0641, DiceLoss:0.3494, Loss:0.9253
+2020-03-26 00:42:01.605586 Epoch [002/050], Step [0020/0153], LR: 0.050000, SalLoss: 0.0635, DiceLoss:0.3505, Loss:0.9263
+2020-03-26 00:42:08.462519 Epoch [002/050], Step [0030/0153], LR: 0.050000, SalLoss: 0.0651, DiceLoss:0.3533, Loss:0.9338
+2020-03-26 00:42:15.305989 Epoch [002/050], Step [0040/0153], LR: 0.050000, SalLoss: 0.0659, DiceLoss:0.3538, Loss:0.9355
+2020-03-26 00:42:22.190072 Epoch [002/050], Step [0050/0153], LR: 0.050000, SalLoss: 0.0651, DiceLoss:0.3553, Loss:0.9379
+2020-03-26 00:42:29.017756 Epoch [002/050], Step [0060/0153], LR: 0.050000, SalLoss: 0.0665, DiceLoss:0.3568, Loss:0.9426
+2020-03-26 00:42:35.832467 Epoch [002/050], Step [0070/0153], LR: 0.050000, SalLoss: 0.0649, DiceLoss:0.3499, Loss:0.9269
+2020-03-26 00:42:42.658842 Epoch [002/050], Step [0080/0153], LR: 0.050000, SalLoss: 0.0627, DiceLoss:0.3431, Loss:0.9106
+2020-03-26 00:42:49.484561 Epoch [002/050], Step [0090/0153], LR: 0.050000, SalLoss: 0.0625, DiceLoss:0.3368, Loss:0.8975
+2020-03-26 00:42:56.289197 Epoch [002/050], Step [0100/0153], LR: 0.050000, SalLoss: 0.0636, DiceLoss:0.3372, Loss:0.8994
+2020-03-26 00:43:03.120215 Epoch [002/050], Step [0110/0153], LR: 0.050000, SalLoss: 0.0637, DiceLoss:0.3398, Loss:0.9046
+2020-03-26 00:43:09.979241 Epoch [002/050], Step [0120/0153], LR: 0.050000, SalLoss: 0.0659, DiceLoss:0.3403, Loss:0.9081
+2020-03-26 00:43:16.761094 Epoch [002/050], Step [0130/0153], LR: 0.050000, SalLoss: 0.0654, DiceLoss:0.3398, Loss:0.9068
+2020-03-26 00:43:23.279737 Epoch [002/050], Step [0140/0153], LR: 0.050000, SalLoss: 0.0644, DiceLoss:0.3363, Loss:0.8988
+2020-03-26 00:43:29.784638 Epoch [002/050], Step [0150/0153], LR: 0.050000, SalLoss: 0.0638, DiceLoss:0.3308, Loss:0.8868
+2020-03-26 00:43:31.340326 Epoch [002/050], Step [0153/0153], LR: 0.050000, SalLoss: 0.0635, DiceLoss:0.3317, Loss:0.8884
+2020-03-26 00:43:40.086288 Epoch [003/050], Step [0010/0153], LR: 0.050000, SalLoss: 0.0638, DiceLoss:0.3353, Loss:0.8956
+2020-03-26 00:43:46.891419 Epoch [003/050], Step [0020/0153], LR: 0.050000, SalLoss: 0.0636, DiceLoss:0.3329, Loss:0.8904
+2020-03-26 00:43:53.719519 Epoch [003/050], Step [0030/0153], LR: 0.050000, SalLoss: 0.0631, DiceLoss:0.3372, Loss:0.8984
+2020-03-26 00:44:00.558052 Epoch [003/050], Step [0040/0153], LR: 0.050000, SalLoss: 0.0639, DiceLoss:0.3399, Loss:0.9048
+2020-03-26 00:44:07.421337 Epoch [003/050], Step [0050/0153], LR: 0.050000, SalLoss: 0.0639, DiceLoss:0.3356, Loss:0.8963
+2020-03-26 00:44:14.263094 Epoch [003/050], Step [0060/0153], LR: 0.050000, SalLoss: 0.0641, DiceLoss:0.3346, Loss:0.8944
+2020-03-26 00:44:21.099775 Epoch [003/050], Step [0070/0153], LR: 0.050000, SalLoss: 0.0631, DiceLoss:0.3317, Loss:0.8877
+2020-03-26 00:44:27.933871 Epoch [003/050], Step [0080/0153], LR: 0.050000, SalLoss: 0.0627, DiceLoss:0.3268, Loss:0.8768
+2020-03-26 00:44:34.768902 Epoch [003/050], Step [0090/0153], LR: 0.050000, SalLoss: 0.0612, DiceLoss:0.3286, Loss:0.8789
+2020-03-26 00:44:41.599156 Epoch [003/050], Step [0100/0153], LR: 0.050000, SalLoss: 0.0607, DiceLoss:0.3288, Loss:0.8785
+2020-03-26 00:44:48.412291 Epoch [003/050], Step [0110/0153], LR: 0.050000, SalLoss: 0.0616, DiceLoss:0.3312, Loss:0.8840
+2020-03-26 00:44:55.320903 Epoch [003/050], Step [0120/0153], LR: 0.050000, SalLoss: 0.0624, DiceLoss:0.3326, Loss:0.8877
+2020-03-26 00:45:02.073196 Epoch [003/050], Step [0130/0153], LR: 0.050000, SalLoss: 0.0646, DiceLoss:0.3298, Loss:0.8839
+2020-03-26 00:45:08.603003 Epoch [003/050], Step [0140/0153], LR: 0.050000, SalLoss: 0.0628, DiceLoss:0.3254, Loss:0.8733
+2020-03-26 00:45:15.101348 Epoch [003/050], Step [0150/0153], LR: 0.050000, SalLoss: 0.0637, DiceLoss:0.3235, Loss:0.8706
+2020-03-26 00:45:16.690497 Epoch [003/050], Step [0153/0153], LR: 0.050000, SalLoss: 0.0642, DiceLoss:0.3244, Loss:0.8733
+2020-03-26 00:45:25.555698 Epoch [004/050], Step [0010/0153], LR: 0.050000, SalLoss: 0.0637, DiceLoss:0.3276, Loss:0.8796
+2020-03-26 00:45:32.380478 Epoch [004/050], Step [0020/0153], LR: 0.050000, SalLoss: 0.0641, DiceLoss:0.3288, Loss:0.8829
+2020-03-26 00:45:39.613102 Epoch [004/050], Step [0030/0153], LR: 0.050000, SalLoss: 0.0644, DiceLoss:0.3256, Loss:0.8764
+2020-03-26 00:45:46.462745 Epoch [004/050], Step [0040/0153], LR: 0.050000, SalLoss: 0.0621, DiceLoss:0.3231, Loss:0.8684
+2020-03-26 00:45:53.270311 Epoch [004/050], Step [0050/0153], LR: 0.050000, SalLoss: 0.0619, DiceLoss:0.3199, Loss:0.8619
+2020-03-26 00:46:00.108084 Epoch [004/050], Step [0060/0153], LR: 0.050000, SalLoss: 0.0611, DiceLoss:0.3192, Loss:0.8596
+2020-03-26 00:46:06.950231 Epoch [004/050], Step [0070/0153], LR: 0.050000, SalLoss: 0.0617, DiceLoss:0.3253, Loss:0.8731
+2020-03-26 00:46:13.791222 Epoch [004/050], Step [0080/0153], LR: 0.050000, SalLoss: 0.0640, DiceLoss:0.3280, Loss:0.8814
+2020-03-26 00:46:20.661049 Epoch [004/050], Step [0090/0153], LR: 0.050000, SalLoss: 0.0637, DiceLoss:0.3292, Loss:0.8836
+2020-03-26 00:46:27.498016 Epoch [004/050], Step [0100/0153], LR: 0.050000, SalLoss: 0.0645, DiceLoss:0.3299, Loss:0.8856
+2020-03-26 00:46:34.319074 Epoch [004/050], Step [0110/0153], LR: 0.050000, SalLoss: 0.0647, DiceLoss:0.3287, Loss:0.8833
+2020-03-26 00:46:41.145342 Epoch [004/050], Step [0120/0153], LR: 0.050000, SalLoss: 0.0628, DiceLoss:0.3220, Loss:0.8670
+2020-03-26 00:46:47.909071 Epoch [004/050], Step [0130/0153], LR: 0.050000, SalLoss: 0.0629, DiceLoss:0.3168, Loss:0.8561
+2020-03-26 00:46:54.474687 Epoch [004/050], Step [0140/0153], LR: 0.050000, SalLoss: 0.0621, DiceLoss:0.3200, Loss:0.8615
+2020-03-26 00:47:00.973738 Epoch [004/050], Step [0150/0153], LR: 0.050000, SalLoss: 0.0609, DiceLoss:0.3162, Loss:0.8517
+2020-03-26 00:47:02.553900 Epoch [004/050], Step [0153/0153], LR: 0.050000, SalLoss: 0.0607, DiceLoss:0.3149, Loss:0.8486
+2020-03-26 00:47:11.366863 Epoch [005/050], Step [0010/0153], LR: 0.050000, SalLoss: 0.0620, DiceLoss:0.3214, Loss:0.8632
+2020-03-26 00:47:18.220413 Epoch [005/050], Step [0020/0153], LR: 0.050000, SalLoss: 0.0607, DiceLoss:0.3179, Loss:0.8547
+2020-03-26 00:47:25.066767 Epoch [005/050], Step [0030/0153], LR: 0.050000, SalLoss: 0.0632, DiceLoss:0.3207, Loss:0.8635
+2020-03-26 00:47:31.881910 Epoch [005/050], Step [0040/0153], LR: 0.050000, SalLoss: 0.0624, DiceLoss:0.3242, Loss:0.8704
+2020-03-26 00:47:38.699566 Epoch [005/050], Step [0050/0153], LR: 0.050000, SalLoss: 0.0618, DiceLoss:0.3174, Loss:0.8559
+2020-03-26 00:47:45.519689 Epoch [005/050], Step [0060/0153], LR: 0.050000, SalLoss: 0.0628, DiceLoss:0.3154, Loss:0.8531
+2020-03-26 00:47:52.342011 Epoch [005/050], Step [0070/0153], LR: 0.050000, SalLoss: 0.0598, DiceLoss:0.3136, Loss:0.8459
+2020-03-26 00:47:59.160100 Epoch [005/050], Step [0080/0153], LR: 0.050000, SalLoss: 0.0617, DiceLoss:0.3138, Loss:0.8483
+2020-03-26 00:48:06.021796 Epoch [005/050], Step [0090/0153], LR: 0.050000, SalLoss: 0.0609, DiceLoss:0.3141, Loss:0.8480
+2020-03-26 00:48:12.846168 Epoch [005/050], Step [0100/0153], LR: 0.050000, SalLoss: 0.0610, DiceLoss:0.3170, Loss:0.8541
+2020-03-26 00:48:19.686410 Epoch [005/050], Step [0110/0153], LR: 0.050000, SalLoss: 0.0617, DiceLoss:0.3140, Loss:0.8485
+2020-03-26 00:48:26.517056 Epoch [005/050], Step [0120/0153], LR: 0.050000, SalLoss: 0.0613, DiceLoss:0.3145, Loss:0.8494
+2020-03-26 00:48:33.250681 Epoch [005/050], Step [0130/0153], LR: 0.050000, SalLoss: 0.0618, DiceLoss:0.3161, Loss:0.8532
+2020-03-26 00:48:39.732784 Epoch [005/050], Step [0140/0153], LR: 0.050000, SalLoss: 0.0619, DiceLoss:0.3208, Loss:0.8635
+2020-03-26 00:48:46.260461 Epoch [005/050], Step [0150/0153], LR: 0.050000, SalLoss: 0.0640, DiceLoss:0.3208, Loss:0.8654
+2020-03-26 00:48:47.828813 Epoch [005/050], Step [0153/0153], LR: 0.050000, SalLoss: 0.0627, DiceLoss:0.3202, Loss:0.8625
+2020-03-26 00:48:56.595536 Epoch [006/050], Step [0010/0153], LR: 0.050000, SalLoss: 0.0632, DiceLoss:0.3227, Loss:0.8678
+2020-03-26 00:49:03.428767 Epoch [006/050], Step [0020/0153], LR: 0.050000, SalLoss: 0.0628, DiceLoss:0.3216, Loss:0.8650
+2020-03-26 00:49:10.265148 Epoch [006/050], Step [0030/0153], LR: 0.050000, SalLoss: 0.0626, DiceLoss:0.3225, Loss:0.8666
+2020-03-26 00:49:17.107688 Epoch [006/050], Step [0040/0153], LR: 0.050000, SalLoss: 0.0627, DiceLoss:0.3220, Loss:0.8658
+2020-03-26 00:49:23.932738 Epoch [006/050], Step [0050/0153], LR: 0.050000, SalLoss: 0.0623, DiceLoss:0.3158, Loss:0.8528
+2020-03-26 00:49:30.742551 Epoch [006/050], Step [0060/0153], LR: 0.050000, SalLoss: 0.0631, DiceLoss:0.3191, Loss:0.8608
+2020-03-26 00:49:37.588429 Epoch [006/050], Step [0070/0153], LR: 0.050000, SalLoss: 0.0624, DiceLoss:0.3132, Loss:0.8478

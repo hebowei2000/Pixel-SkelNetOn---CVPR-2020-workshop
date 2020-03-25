@@ -15,10 +15,10 @@ def structure_loss(pred, mask):
     wdiss = 1 - (2*inter + 0.5)/(union +0.5)
     return (wbce + wiou + wdiss).mean()
 
-def diss_loss(pred, mask):
+def dice_loss(pred, mask):
     weit = 1 + 5*torch.abs(F.avg_pool2d(mask,kernel_size=31,stride=1,padding=15)-mask)
     pred = torch.sigmoid(pred)
     inter = ((pred * mask) * weit).sum(dim=(2,3))
     union = ((pred + mask) * weit).sum(dim=(2,3))
     wdiss = 1 - (2*inter + 0.5)/(union+0.5)
-    return wdiss
+    return wdiss.mean()

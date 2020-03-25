@@ -1,0 +1,299 @@
+Learning Rate: 0.05 ResNet: True Trainset: DUTS_TRAIN
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: downsample
+initialize: 0
+initialize: 1
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: downsample
+initialize: 0
+initialize: 1
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: downsample
+initialize: 0
+initialize: 1
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: downsample
+initialize: 0
+initialize: 1
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: conv1
+initialize: bn1
+initialize: conv2
+initialize: bn2
+initialize: conv3
+initialize: bn3
+initialize: relu
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: reduce
+initialize: 0
+initialize: 1
+initialize: 2
+initialize: 3
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: reduce
+initialize: 0
+initialize: 1
+initialize: 2
+initialize: 3
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: reduce
+initialize: 0
+initialize: 1
+initialize: 2
+initialize: 3
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: reduce
+initialize: 0
+initialize: 1
+initialize: 2
+initialize: 3
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: convs
+initialize: cat
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: conv_bn
+initialize: 0
+initialize: 1
+initialize: upsample
+initialize: conv_upsample1
+initialize: conv_upsample2
+initialize: conv_upsample3
+initialize: conv_cat1
+initialize: 0
+initialize: 1
+initialize: conv_cat2
+initialize: 0
+initialize: 1
+initialize: conv_cat3
+initialize: 0
+initialize: 1
+initialize: output
+initialize: 0
+initialize: 1
+initialize: resnet
+initialize: reduce_s1
+initialize: reduce_s2
+initialize: reduce_s3
+initialize: reduce_s4
+initialize: ppm
+initialize: output_s
+Time to witness the mirracle!
+/home/LAB/penghao/anaconda3/lib/python3.6/site-packages/torch/nn/functional.py:2416: UserWarning: nn.functional.upsample is deprecated. Use nn.functional.interpolate instead.
+  warnings.warn("nn.functional.upsample is deprecated. Use nn.functional.interpolate instead.")
+/home/LAB/penghao/anaconda3/lib/python3.6/site-packages/imageio/core/util.py:78: UserWarning: Lossy conversion from float32 to uint8, range [0, 1]
+  dtype_str, out_type.__name__))
+2020-03-26 00:30:36.388774 Epoch [000/050], Step [0010/0153], LR: 0.050000, SalLoss: 0.1978, DiceLoss:6.6195, Loss:1.9227
+2020-03-26 00:30:42.917666 Epoch [000/050], Step [0020/0153], LR: 0.050000, SalLoss: 0.1285, DiceLoss:5.7554, Loss:1.6680
+2020-03-26 00:30:49.424517 Epoch [000/050], Step [0030/0153], LR: 0.050000, SalLoss: 0.1071, DiceLoss:5.2148, Loss:1.5285
+2020-03-26 00:30:56.016756 Epoch [000/050], Step [0040/0153], LR: 0.050000, SalLoss: 0.0971, DiceLoss:4.8400, Loss:1.4347
+2020-03-26 00:31:02.598694 Epoch [000/050], Step [0050/0153], LR: 0.050000, SalLoss: 0.0661, DiceLoss:4.0680, Loss:1.2334
+2020-03-26 00:31:09.176311 Epoch [000/050], Step [0060/0153], LR: 0.050000, SalLoss: 0.0683, DiceLoss:3.7330, Loss:1.1585
+2020-03-26 00:31:15.785879 Epoch [000/050], Step [0070/0153], LR: 0.050000, SalLoss: 0.0700, DiceLoss:3.6059, Loss:1.1294
+2020-03-26 00:31:22.411662 Epoch [000/050], Step [0080/0153], LR: 0.050000, SalLoss: 0.0690, DiceLoss:3.4977, Loss:1.1029
+2020-03-26 00:31:29.010056 Epoch [000/050], Step [0090/0153], LR: 0.050000, SalLoss: 0.0686, DiceLoss:3.4451, Loss:1.0901
+2020-03-26 00:31:35.618294 Epoch [000/050], Step [0100/0153], LR: 0.050000, SalLoss: 0.0685, DiceLoss:3.3447, Loss:1.0662
+2020-03-26 00:31:42.246035 Epoch [000/050], Step [0110/0153], LR: 0.050000, SalLoss: 0.0691, DiceLoss:3.2095, Loss:1.0353
+2020-03-26 00:31:48.895310 Epoch [000/050], Step [0120/0153], LR: 0.050000, SalLoss: 0.0691, DiceLoss:3.1131, Loss:1.0113
+2020-03-26 00:31:55.721318 Epoch [000/050], Step [0130/0153], LR: 0.050000, SalLoss: 0.0685, DiceLoss:3.0746, Loss:1.0009
+2020-03-26 00:32:02.417557 Epoch [000/050], Step [0140/0153], LR: 0.050000, SalLoss: 0.0689, DiceLoss:3.0440, Loss:0.9939
+2020-03-26 00:32:08.988132 Epoch [000/050], Step [0150/0153], LR: 0.050000, SalLoss: 0.0670, DiceLoss:3.0338, Loss:0.9887
+2020-03-26 00:32:10.557173 Epoch [000/050], Step [0153/0153], LR: 0.050000, SalLoss: 0.0682, DiceLoss:2.9912, Loss:0.9977
+/home/LAB/penghao/anaconda3/lib/python3.6/site-packages/torch/nn/_reduction.py:43: UserWarning: size_average and reduce args will be deprecated, please use reduction='mean' instead.
+  warnings.warn(warning.format(ret))
+2020-03-26 00:32:19.384531 Epoch [001/050], Step [0010/0153], LR: 0.050000, SalLoss: 0.0672, DiceLoss:3.0407, Loss:1.0086
+2020-03-26 00:32:26.260790 Epoch [001/050], Step [0020/0153], LR: 0.050000, SalLoss: 0.0663, DiceLoss:2.9723, Loss:0.9904
+2020-03-26 00:32:33.085796 Epoch [001/050], Step [0030/0153], LR: 0.050000, SalLoss: 0.0673, DiceLoss:2.9951, Loss:0.9970
+2020-03-26 00:32:39.920663 Epoch [001/050], Step [0040/0153], LR: 0.050000, SalLoss: 0.0669, DiceLoss:3.0075, Loss:0.9808
+2020-03-26 00:32:46.768248 Epoch [001/050], Step [0050/0153], LR: 0.050000, SalLoss: 0.0680, DiceLoss:2.9703, Loss:0.9732
+2020-03-26 00:32:53.628026 Epoch [001/050], Step [0060/0153], LR: 0.050000, SalLoss: 0.0684, DiceLoss:2.9705, Loss:0.9736
+2020-03-26 00:33:00.465471 Epoch [001/050], Step [0070/0153], LR: 0.050000, SalLoss: 0.0675, DiceLoss:2.9414, Loss:0.9658
+2020-03-26 00:33:07.358322 Epoch [001/050], Step [0080/0153], LR: 0.050000, SalLoss: 0.0672, DiceLoss:2.9655, Loss:0.9721
+2020-03-26 00:33:14.189020 Epoch [001/050], Step [0090/0153], LR: 0.050000, SalLoss: 0.0655, DiceLoss:2.9100, Loss:0.9563
+2020-03-26 00:33:21.049963 Epoch [001/050], Step [0100/0153], LR: 0.050000, SalLoss: 0.0653, DiceLoss:2.8602, Loss:0.9435
+2020-03-26 00:33:27.880592 Epoch [001/050], Step [0110/0153], LR: 0.050000, SalLoss: 0.0661, DiceLoss:2.8325, Loss:0.9371
+2020-03-26 00:33:34.695601 Epoch [001/050], Step [0120/0153], LR: 0.050000, SalLoss: 0.0653, DiceLoss:2.8038, Loss:0.9290
+2020-03-26 00:33:41.466011 Epoch [001/050], Step [0130/0153], LR: 0.050000, SalLoss: 0.0659, DiceLoss:2.7729, Loss:0.9217
+2020-03-26 00:33:47.956722 Epoch [001/050], Step [0140/0153], LR: 0.050000, SalLoss: 0.0636, DiceLoss:2.7717, Loss:0.9190
+2020-03-26 00:33:54.453802 Epoch [001/050], Step [0150/0153], LR: 0.050000, SalLoss: 0.0627, DiceLoss:2.7441, Loss:0.9111
+2020-03-26 00:33:56.034691 Epoch [001/050], Step [0153/0153], LR: 0.050000, SalLoss: 0.0616, DiceLoss:2.6958, Loss:0.9148
+2020-03-26 00:34:04.755454 Epoch [002/050], Step [0010/0153], LR: 0.050000, SalLoss: 0.0645, DiceLoss:2.7557, Loss:0.9329
+2020-03-26 00:34:11.602603 Epoch [002/050], Step [0020/0153], LR: 0.050000, SalLoss: 0.0635, DiceLoss:2.7763, Loss:0.9363
+2020-03-26 00:34:18.472874 Epoch [002/050], Step [0030/0153], LR: 0.050000, SalLoss: 0.0655, DiceLoss:2.7779, Loss:0.9391
+2020-03-26 00:34:25.318549 Epoch [002/050], Step [0040/0153], LR: 0.050000, SalLoss: 0.0650, DiceLoss:2.8352, Loss:0.9357
+2020-03-26 00:34:32.136177 Epoch [002/050], Step [0050/0153], LR: 0.050000, SalLoss: 0.0635, DiceLoss:2.8127, Loss:0.9287
+2020-03-26 00:34:38.964720 Epoch [002/050], Step [0060/0153], LR: 0.050000, SalLoss: 0.0643, DiceLoss:2.8145, Loss:0.9304
+2020-03-26 00:34:45.758983 Epoch [002/050], Step [0070/0153], LR: 0.050000, SalLoss: 0.0633, DiceLoss:2.7765, Loss:0.9194
+2020-03-26 00:34:52.557105 Epoch [002/050], Step [0080/0153], LR: 0.050000, SalLoss: 0.0625, DiceLoss:2.7492, Loss:0.9115
+slurmstepd-dell-gpu-07: error: *** JOB 12422 ON dell-gpu-07 CANCELLED AT 2020-03-26T00:34:59 ***
