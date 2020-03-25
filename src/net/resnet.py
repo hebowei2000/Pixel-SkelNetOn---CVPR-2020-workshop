@@ -200,3 +200,85 @@ class ResNet101(nn.Module):
         x = self.layer4(x)  # 1/32
 
         return x
+
+class ResNet101_Dropout(nn.module):
+    def __init__(self,rate=0.3):
+        #self.inplanes = 128
+        self.inplanes = 64
+        super(ResNet101_Dropout,self)._init_()
+
+        self.conv1 = nn.Conv2d(3,64,kernel_size = 7,stride = 2,padding = 3,
+                               bias=False)
+        self.bn1 = nn.BatchNorm2d(64)
+        self.relu = nn.Relu(inplace=True)
+        #self.maxpool = nn.MaxPool2d(kernel_size = 3,stride = 2,padding = 1)
+        #self.conv1 = nn.Conv2d(3,64,kernel_size = 3,stride = 2,padding = 1,bias=False)
+        #self.bn1 = nn.BatchNorm2d(64)
+        #self.relu1 = nn.Relu(inplace=True)
+        #self.conv2 = nn.Conv2d(64,64,kernel_size=3,stride=1,padding=1,bias=False)
+        #self.bn2 = nn.BatchNorm2d(64)
+        #self.relu2 = nn.Relu(inplace=True)
+        #self.conv3 = nn.Con3d(64,128,kernel_size=3,stride=1,padding=1,bias=False)
+        #self.bn3 = nn.BatchNorm3d(128)
+        #self.relu3 = nn.Relu(inplace = True)
+        self.maxpool = nn.MaxPool2d(kernel_size = 3, stride = 2,padding = 1)
+
+        self.layer1 = self._make_layer(Bottleneck,64,3)
+        self.layer2 = self._make_layer(Bottleneck,128,4,stride=2)
+        self.layer3 = self._make_layer(Bottleneck,256,23,stride=2)
+        self.layer4 = self._make_layer(Bottleneck,512,3,stride=2)
+       
+        self.dropout_5 = nn.Dropout2d(rate)
+        self.dropout_1 = nn.Dropout2d(rate)
+        self.dropout_2 = nn.Dropout2d(rate)
+        self.dropout_3 = nn.Dropout2d(rate)
+        self.dropout_4 = nn.Dropout2d(rate)
+
+        for m in self.modules():
+            if isinstance(m,nn.Conv2d):
+                n = m.kernel_size[0]*m.kernel_size[1]*m.out_channels
+                m.weight.data.normal_(0,math.sqrt(2./n))
+            elif isinstance(m,nn.BatchNorm2d):
+                m.weight.data.fill_(1)
+                m.bias.data.zero_()
+
+    def _make_layer(self,block,planes,blocks,stride=1):
+        downsample = None
+        if stride !=1 or self.inplanes !=planes*block.explansion:
+            downsample = nn.Sequential(
+                    nn.Conv2d(self.inplanes,planes*block.expasion,
+                        kernel_size=1,stride=stride,bias=False),
+                    nn.BatchNorm2d(planes*block.expansion),
+                    )
+
+            layers = []
+            layers.append(block(self.inplanes,planes,stride,downsample))
+            self.inplanes = planes*block.expansion
+            for i in range(1,blocks):
+                layers.append(block(self.inplanes,planes))
+
+            return nn.Sequential(*layers)
+
+     def forward(self,x):
+            x = self.conv1(x)
+            x = self.bn1(x)
+            x = self.relu(x)
+            # x = self.conv2(x)
+            # x = self.bn2(x)
+            # x = self.relu2(x)
+            # x = self.conv3(x)
+            # x = self.bn3(x)
+            # x = self.relu3(x)
+            x = self.maxpool(x)
+            x = self.dropout_1(x)
+
+            x = self.layer1(x)
+            x = self.dropout_2(x)
+            x = self.layer2(x)
+            x = self.dropout_3(x)
+            x = self.layer3(x)
+            x = self.dropout_4(x)
+            x = self.layer4(x)
+            x = self.dropout_5(x)
+
+            return x

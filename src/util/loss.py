@@ -11,4 +11,6 @@ def structure_loss(pred, mask):
     inter = ((pred * mask) * weit).sum(dim=(2, 3))
     union = ((pred + mask) * weit).sum(dim=(2, 3))
     wiou = 1 - (inter + 1) / (union - inter + 1)
-    return (wbce + wiou).mean()
+
+    wdiss = 1 - (2*inter + 0.5)/(union +0.5)
+    return (wbce + wiou + wdiss).mean()
