@@ -136,8 +136,8 @@ def main():
     model.cuda()
 
     params = model.parameters()
-    optimizer = torch.optim.SGD(params, args.lr, momentum=0.9, weight_decay=5e-4)
-    # optimizer = torch.optim.Adam(params, args.lr, weight_decay=5e-4)
+   # optimizer = torch.optim.SGD(params, args.lr, momentum=0.9, weight_decay=5e-4)
+    optimizer = torch.optim.Adam(params, args.lr, weight_decay=5e-4)
 
     # dataset
     args.data_path = '../data/'

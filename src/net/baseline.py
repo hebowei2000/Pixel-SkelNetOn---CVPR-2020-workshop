@@ -29,7 +29,10 @@ class baseline(nn.Module):
         x_s2 = self.reduce_s2(x2)
         x_s3 = self.reduce_s3(x3)
         x_s4 = self.reduce_s4(x4)
-
+        
+        x_s1 = self.ppm(x_s1)
+        x_s2 = self.ppm(x_s2)
+        x_s4 = self.ppm(x_s3)
         x_s4 = self.ppm(x_s4)
 
         pred_s = self.output_s(x_s1, x_s2, x_s3, x_s4)
