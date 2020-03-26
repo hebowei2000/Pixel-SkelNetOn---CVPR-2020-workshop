@@ -50,7 +50,7 @@ def train(train_loader, model, optimizer, args):
                 loss_sal = nn.BCEWithLogitsLoss()(pred_sal, gts)
                # loss_dice=Loss.dice_loss(pred_sal,gts)
                # loss = Loss.structure_loss(pred_sal,gts)
-               loss = loss_sal
+                loss = loss_sal
                 loss.backward()
 
                 optimizer.step()
