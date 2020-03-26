@@ -26,7 +26,7 @@ def train(train_loader, model, optimizer, args):
    # loss_dice_record, loss_record = AvgMeter(), AvgMeter()
     total_step = len(train_loader)
 
-    scheduler = lr_scheduler.StepLR(optimizer, step_size=20, gamma=0.1)
+    scheduler = lr_scheduler.StepLR(optimizer, step_size=10, gamma=0.2)
 
     global_step = 0
     test(model, -1, args)
