@@ -3,12 +3,18 @@ import sys
 from datetime import datetime
 import cv2
 import imageio
-
+import torch
 sys.path.insert(0, '../')
 sys.dont_write_bytecode = True
 
 from torch.optim import lr_scheduler
 from tensorboardX import SummaryWriter
+
+import torch
+from torch.utils.data import Dataset,DataLoader
+from torch import nn, optim
+import torchvision
+from PIL import Image
 
 from util import *
 from net import *
@@ -40,6 +46,9 @@ def train(train_loader, model, optimizer, args):
                 # Load data
                 ims = ims.cuda()
                 gts = gts.cuda()
+                #data argument
+                apply(ims, torchvision.transforms.RandomHorizontalFlip())
+                apply(ims, torchvision.transforms.RandomVerticalFlip())
                 # Forward
                 trainsize = int(round(args.train_size * rate / 32) * 32)
                 if rate != 1:
