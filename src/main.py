@@ -68,7 +68,7 @@ def train(train_loader, model, optimizer, args):
            # sw.add_scalars('DiceLoss',{'DiceLoss':loss_dice_record.show()},
             #               global_step=global_step)
            # sw.add_scalars('Loss', {'Loss':loss_record.show()},
-                            global_step=global_step)
+              #              global_step=global_step)
            # log = 'Iteration: {:d} SalLoss: {:.4f} DiceLoss:{:.4f} Loss:{:.4f}'.format(global_step,loss_sal_record.show(),
             #        loss_dice_record.show(),loss_record.show())
             log = 'Iteration: {:d} SalLoss: {:.4f}'.format(global_step,loss_sal_record.show())
